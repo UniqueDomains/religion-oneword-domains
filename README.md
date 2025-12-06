@@ -39,7 +39,7 @@ If you want to search & filters the complete database of [Religion one word doma
 | sermons.zone        | available |          | 36%    | 7      |                  |                  |                  |
 | pastoralcare.at     | available |          | 72%    | 13     |                  |                  |                  |
 | pastoralcare.cloud  | available |          | 72%    | 13     |                  |                  |                  |
-| pastoralcare.co     | available |          | 72%    | 13     |                  |                  |                  |
+| pastoralcare.co     | premium   |          | 72%    | 13     |                  |                  |                  |
 | pastoralcare.com    | resell    |          | 72%    | 13     | Inames Co., Ltd. | 10/08/2000 09:44 | 10/08/2025 09:44 |
 | pastoralcare.dev    | available |          | 72%    | 13     |                  |                  |                  |
 | pastoralcare.expert | available |          | 72%    | 13     |                  |                  |                  |
