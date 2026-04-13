@@ -5822,7 +5822,6 @@ ddac2cbc-4ce2-4fb8-9631-f2de76e7b908,faithful.agency,resell,,,92,15,8,"Sav.com, 
 04b5da48-357c-4e8b-b724-38939df1abd2,faithful.ai,resell,,,92,15,8,"NameCheap, Inc.",16/03/2026 19:18,16/03/2028 19:18
 5c20fb19-5dd3-4d69-91c9-070f8f2135c8,faithful.airforce,premium,,,92,15,8,,,
 83649976-ada0-4255-b03c-86b23d435a6c,faithful.apartments,premium,,,92,15,8,,,
-522519f0-2f24-4cd3-b048-9d7cc829ddc0,faithful.app,resell,,,92,15,8,Porkbun LLC,08/05/2018 18:09,08/05/2026 18:09
 aec29762-48b2-4ec5-8ee3-c309b49ea427,faithful.archi,premium,,,92,15,8,,,
 8ffda907-d200-47d1-84ec-6e52b429c02c,faithful.art,premium,,,92,15,8,,,
 ccc91e65-ff40-4463-a055-0fb2190fdcc1,faithful.associates,premium,,,92,15,8,,,
@@ -6031,7 +6030,7 @@ cbcfaf28-32df-43a7-8d79-1dca9b314ecd,faithful.lgbt,premium,,,92,15,8,,,
 cf768fad-912e-4431-8c5c-714e847b08e5,faithful.lighting,premium,,,92,15,8,,,
 2d56d8e7-07b4-4e08-87d8-b3a45028cd5b,faithful.limited,premium,,,92,15,8,,,
 3327ef33-fd9b-40e6-93b0-17d471b29b42,faithful.limo,premium,,,92,15,8,,,
-6f20ca0e-8b2a-42f2-a703-f0321da1199e,faithful.living,premium,,,92,15,8,,,
+6f20ca0e-8b2a-42f2-a703-f0321da1199e,faithful.living,resell,,,92,15,8,"Dynadot, LLC",09/04/2026 16:54,09/04/2027 16:54
 cb05317b-97e8-455b-9812-fe79b1750f19,faithful.llc,premium,,,92,15,8,,,
 c361e09a-7f19-4d20-8ced-3ae29c07bad9,faithful.loan,premium,,,92,15,8,,,
 05b24b4d-da8f-4e76-8d30-763f55a5a431,faithful.loans,premium,,,92,15,8,,,
@@ -6247,6 +6246,7 @@ fe9b8580-31b7-4a69-8474-ad4fd854ef7c,faithful.desi,available,22.98,,82,15,8,name
 8cb801d7-b540-45b1-b1c6-3d7d474998a1,faithful.new,available,549.99,,82,15,8,name.com,,
 248a0740-ea17-4900-9783-c74dd33fc307,faithful.now,resell,,,82,15,8,"Spaceship, Inc.",04/08/2025 11:54,04/08/2026 11:54
 ad383105-9f5f-4d88-9b56-c5ca7418b146,faithful.paris,available,51.98,,82,15,8,namecheap,,
+48f76700-baed-4972-ba49-986ac806805a,faithful.ryukyu,available,22.98,,82,15,8,namecheap,,
 ca603ca1-73ff-4bc7-a474-972f6cd0e9df,faithful.sex,available,154.98,,82,15,8,namecheap,,
 4621722f-1fb9-4b34-818e-6db97ab77a04,faithful.trading,available,19.99,,82,15,8,name.com,,
 e3932316-ca07-4819-a2ca-2e445fc8082a,faithful.xxx,available,154.98,,82,15,8,namecheap,,
@@ -9570,6 +9570,7 @@ d210ce10-a33d-4c77-ab12-fcf520aba57a,custom.phd,premium,811.25,811.25,110,39,6,n
 545ee1e7-3d59-4c22-888e-d7317c69a3fe,custom.pics,resell,,,110,39,6,Dynadot LLC,29/06/2025 12:07,29/06/2026 23:59
 8889037e-6e43-4c4d-857d-bc9fc390573a,custom.plus,resell,,,110,39,6,"DNSPod, Inc.",15/06/2020 08:36,15/06/2026 08:36
 a52ac70d-3f16-4e55-bc52-1bc2f8de4344,custom.poker,available,14.99,88.49,110,39,6,name.com,,
+b1b9dfb7-6701-4c7e-a5c2-af757fcc2639,custom.porn,premium,,,110,39,6,"NameCheap, Inc.",09/04/2026 23:40,09/04/2027 23:40
 443c1bc2-8471-4820-ac40-59ea84363f0c,custom.prof,premium,811.25,811.25,110,39,6,name.com,,
 e4a38127-de85-43ca-b900-05889faae2d4,custom.properties,premium,123.75,123.75,110,39,6,name.com,,
 5eab3775-4e80-4aaf-9c32-b16a6c424191,custom.protection,available,2950,,110,39,6,namecheap,,
@@ -9667,6 +9668,7 @@ c94999f7-82cd-459d-b1b7-68fa0ad04938,custom.cards,premium,,,110,37,6,,,
 165a0022-4dc2-4fc2-b391-7f4ef3937a82,custom.pink,available,14.99,37.99,110,37,6,name.com,,
 b9ebb929-6cd1-42d9-988d-f2242af2eab7,custom.property,premium,,,110,37,6,,,
 c38d9e23-4ac7-4411-a93a-643186f09a89,custom.ryukyu,available,22.98,,110,37,6,namecheap,,
+b93e16b7-7a6f-489d-8d39-0be77a341160,custom.bike,resell,,,78,39,6,Porkbun LLC,08/04/2017 11:57,08/04/2027 11:57
 8b15959a-2787-43c4-bcbf-ed2c858dcc1a,custom.gg,resell,,,78,39,6,Dynadot Inc. (https://www.dynadot.com),,
 d2b3aaba-5f24-4a88-b870-9b48e45a1280,custom.mobile,premium,750,,78,39,6,name.com,,
 38ad9ba5-610b-4389-b6df-698949f806d1,education.barcelona,available,38.98,,86,32,9,namecheap,,
@@ -9997,5 +9999,3 @@ e7e80e7d-3293-4ce9-b5b0-5300416dae34,education.website,premium,6500,13000,82,32,
 bada1711-16d5-4cf5-b2e0-45418b4ee487,education.works,premium,520,520,82,32,9,namecheap,,
 e7a752f4-8459-4568-a223-c114978bc5b0,education.yachts,premium,845,15.73,82,32,9,namecheap,,
 7140538f-637f-4793-b97e-23dad869563b,education.yoga,premium,1040,31.2,82,32,9,namecheap,,
-074e6c27-94f7-4b81-b995-32fb66ed6aee,education.you,premium,650,650,82,32,9,namecheap,,
-5aafe2bd-2dbb-4115-a42c-02fdd7d7e6c1,education.zip,premium,167.7,167.7,82,32,9,namecheap,,
