@@ -4,9 +4,9 @@ title: "Religion One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-04-13"
-date-released: "2026-04-13"
-url: "https://unique.domains/domains/sector/religion"
+version: "2026-04-26"
+date-released: "2026-04-26"
+url: "https://unique.domains/domains/sector/Religion"
 repository-code: "https://github.com/UniqueDomains/religion-oneword-domains"
 license: "See LICENSE"
 abstract: "Daily-updated public extract of religion one-word domains from Unique Domains."
