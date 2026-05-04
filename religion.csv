@@ -410,6 +410,7 @@ a09ebcdd-2193-4141-a7b3-f2aea2ac0235,religion.id,premium,,,92,15,8,,,
 df2b4929-ebd1-4a3f-8c6d-fee049bd45af,religion.porn,premium,,,92,15,8,,,
 68ee9ff6-25d6-4597-8d13-0d1d6d0a6c37,religion.property,premium,,,92,15,8,,,
 6244c560-2f9c-4188-b92d-af4f9616982e,religion.pw,premium,,,92,15,8,,,
+c1d6555e-f1b3-4da6-bf42-a8aa6d223970,religion.so,premium,,,92,15,8,,,
 5e9355ea-a471-4253-8085-92cb9c2aa870,religion.barcelona,available,38.98,,78,16,8,namecheap,,
 e35a3704-eec4-4632-9763-149a43c27d10,religion.broker,available,19.99,,78,16,8,name.com,,
 fe1019cc-9498-4e29-851e-82e98e1413a8,religion.channel,premium,73.75,,78,16,8,name.com,,
@@ -784,9 +785,21 @@ a547fb82-cf68-4fca-bd03-6b387ae4a24a,belief.expert,premium,,,74,80,6,,,
 7609a770-5ea5-40c9-815c-3f268dba5a1d,belief.gg,resell,,,74,80,6,"Spaceship, Inc (https://www.spaceship.com)",,
 854d3182-a9ff-4a17-934f-28488b7d38c0,belief.it,resell,,,74,80,6,,25/11/2009 12:08,02/12/2025 00:00
 1d2800fc-00c8-440c-9a5f-ee44be4b7737,belief.ninja,premium,,,74,80,6,,,
+f0957f3f-9efa-4c89-9546-bf1a3e6ffecf,belief.so,premium,,,74,80,6,,,
 0ac84103-3857-40dc-9962-08d675ff03c4,belief.space,premium,,,74,80,6,,,
 79c9d5f4-9bd4-4d7c-9457-ca17434554c2,belief.xyz,resell,,,74,80,6,"Go Daddy, LLC",02/06/2014 16:50,02/06/2026 23:59
 c05f7bea-8920-4a8b-a6e5-b6484afaab65,belief.zone,premium,,,74,80,6,,,
+2e290ca9-0e5b-471d-8c61-6a0b54e35e4a,spirituality.at,premium,,,,84,12,,,
+44dbc2ac-059c-42a6-abe0-0e66904a69b3,spirituality.dev,premium,,,,84,12,,,
+9e088900-69da-4c7e-b406-f9f8919d2578,spirituality.gg,premium,,,,84,12,,,
+4812bdae-327a-493e-9de8-c059738662e2,spirituality.me,resell,,,,84,12,Dynadot Inc,21/10/2010 03:33,21/10/2025 03:33
+b418f918-33fc-4876-9fff-6ca927503c72,spirituality.ninja,premium,,,,84,12,,,
+f0dba0f9-fa56-45f2-9317-13d0ea8508f0,spirituality.pro,resell,,,,84,12,Dynadot Inc,01/02/2016 22:25,01/02/2026 22:25
+71b38300-930f-4143-83ce-e4db26ea83f4,spirituality.site,resell,,,,84,12,PDR Ltd. d/b/a PublicDomainRegistry.com,09/02/2017 04:17,09/02/2026 23:59
+805327a4-899b-4f97-891f-7c1285908f4c,spirituality.so,premium,,,,84,12,,,
+0ea9061a-6636-4d03-9a3c-0d1954bf5f27,spirituality.space,resell,,,,84,12,PDR Ltd. d/b/a PublicDomainRegistry.com,09/02/2017 04:17,09/02/2026 23:59
+087d2f6a-9c14-4a80-9e8a-3b900b2d1cc8,spirituality.store,premium,,,,84,12,,,
+4381bd98-1e92-4fcf-ba2d-c1344d53e20e,spirituality.zone,premium,,,,84,12,,,
 2886ed8f-a0b7-4899-9509-f7ee0acace6f,church.audio,premium,,,72,39,6,,,
 d39e044a-5284-4a99-b2f1-4da170bb87d8,church.academy,resell,,,72,38,6,"GoDaddy.com, LLC",15/06/2016 14:55,15/06/2027 14:55
 b0938632-487a-4b11-84ba-e3fb28db409e,church.accountant,premium,,,72,38,6,,,
@@ -986,16 +999,3 @@ fa304843-302f-405c-bfd3-48ef517e1c0c,church.money,resell,,,72,38,6,"GoDaddy.com,
 3e864325-1f04-46b2-b3ec-b1c722ee6626,church.motorcycles,premium,,,72,38,6,,,
 01527001-8615-464f-b015-d77ed5a29041,church.mov,premium,,,72,38,6,,,
 9833bbe7-788d-402c-ac43-0a05f4681c22,church.navy,premium,,,72,38,6,,,
-7b610312-a968-491e-ae96-9de1505f9e38,church.network,resell,,,72,38,6,"Global Domains International, Inc. DBA DomainCostClub.com",10/12/2014 16:00,10/12/2026 16:00
-c5664555-6332-4cd9-923d-cb1041da7d42,church.new,available,549.99,,72,38,6,name.com,,
-45760c65-6d3a-4b7b-9a46-48a3e1ff0784,church.nexus,premium,,,72,38,6,,,
-ecfdbe96-e38e-433f-b132-0186ab212d92,church.ninja,resell,,,72,38,6,"NameCheap, Inc.",29/05/2018 18:19,29/05/2026 18:19
-994cd1df-9804-451e-8cf3-c9d3a358743c,church.now,premium,,,72,38,6,,,
-4b8c656b-7d4c-4816-bbce-aea676c031f1,church.ong,premium,,,72,38,6,,,
-55e3ddba-26f8-4b44-b39d-98525271cf35,church.online,premium,,,72,38,6,,,
-4d3ca1a7-ec0c-4442-8616-e0600c537288,church.organic,premium,,,72,38,6,,,
-67603722-8019-4c52-8f5f-baf587c513a2,church.paris,available,51.98,,72,38,6,namecheap,,
-b81dcca9-87ea-442d-a5fc-64e7b6bd44e1,church.parts,premium,,,72,38,6,,,
-60600d35-8acf-49b8-ba09-67c70857edfd,church.pet,premium,,,72,38,6,,,
-f174e726-c486-43ff-a852-b00a19ca5201,church.phd,premium,,,72,38,6,,,
-71cd269e-bb40-4e63-a483-3c52ee8d3953,church.photo,premium,,,72,38,6,,,

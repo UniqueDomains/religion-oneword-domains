@@ -1,22 +1,22 @@
-# Religion One-Word Domains (15,999)
+# Religion Keyword Domains (19,211)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C999%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C211%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of religion one-word domains from Unique Domains.
+This selection contains 19,211 domain names tied to the religion keyword across 505 TLDs. Median ask is $772. Updated daily, this set is best compared by extension fit, pricing discipline, and whether the wording feels credible and usable for a real project or resale thesis.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **15,999 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **19,211 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 15,999 domains
+**Public extract:** 1,000 rows · **Live catalog:** 19,211 domains · **Median ask:** $771.62 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/sector/Religion`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| church.paris     | available | $51.98    | —             | 72             | 38     | 6      | namecheap                                                 |
-| belief.xyz       | resell    | —         | —             | 74             | 80     | 6      | Go Daddy, LLC                                             |
-| church.mobile    | premium   | $375      | —             | 72             | 38     | 6      | name.com                                                  |
-| church.new       | available | $549.99   | —             | 72             | 38     | 6      | name.com                                                  |
-| belief.it        | resell    | —         | —             | 74             | 80     | 6      | —                                                         |
-| church.kiwi      | premium   | $55.12    | —             | 72             | 38     | 6      | name.com                                                  |
-| church.moi       | available | $39.99    | —             | 72             | 38     | 6      | name.com                                                  |
-| belief.gg        | resell    | —         | —             | 74             | 80     | 6      | Spaceship, Inc (https://www.spaceship.com)                |
-| church.eco       | premium   | $4,375    | —             | 72             | 38     | 6      | name.com                                                  |
-| church.forex     | available | $19.99    | —             | 72             | 38     | 6      | name.com                                                  |
-| belief.co        | resell    | —         | —             | 74             | 80     | 6      | 1API GmbH                                                 |
-| church.channel   | premium   | $623.75   | —             | 72             | 38     | 6      | name.com                                                  |
-| church.desi      | available | $22.98    | —             | 72             | 38     | 6      | namecheap                                                 |
-| church.ninja     | resell    | —         | —             | 72             | 38     | 6      | NameCheap, Inc.                                           |
-| faith.shop       | premium   | $1,250    | —             | 78             | 31     | 5      | name.com                                                  |
-| church.broker    | available | $19.99    | —             | 72             | 38     | 6      | name.com                                                  |
-| church.network   | resell    | —         | —             | 72             | 38     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| faith.mobile     | premium   | $375      | —             | 78             | 31     | 5      | name.com                                                  |
-| church.barcelona | available | $38.98    | —             | 72             | 38     | 6      | namecheap                                                 |
-| church.monster   | resell    | —         | —             | 72             | 38     | 6      | Spaceship, Inc.                                           |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
+| religion.flowers    | premium   | —         | —             | 92             | 16     | 8      | —                                       |
+| religion.republican | premium   | —         | —             | 92             | 16     | 8      | —                                       |
+| religion.gmbh       | premium   | —         | —             | 92             | 16     | 8      | —                                       |
+| church.moi          | available | $39.99    | —             | 72             | 38     | 6      | name.com                                |
+| spirituality.space  | resell    | —         | —             | —              | 84     | 12     | PDR Ltd. d/b/a PublicDomainRegistry.com |
+| church.mobile       | premium   | $375      | —             | 72             | 38     | 6      | name.com                                |
+| church.forex        | available | $19.99    | —             | 72             | 38     | 6      | name.com                                |
+| spirituality.site   | resell    | —         | —             | —              | 84     | 12     | PDR Ltd. d/b/a PublicDomainRegistry.com |
+| church.kiwi         | premium   | $55.12    | —             | 72             | 38     | 6      | name.com                                |
+| church.desi         | available | $22.98    | —             | 72             | 38     | 6      | namecheap                               |
+| spirituality.pro    | resell    | —         | —             | —              | 84     | 12     | Dynadot Inc                             |
+| church.eco          | premium   | $4,375    | —             | 72             | 38     | 6      | name.com                                |
+| church.broker       | available | $19.99    | —             | 72             | 38     | 6      | name.com                                |
+| spirituality.me     | resell    | —         | —             | —              | 84     | 12     | Dynadot Inc                             |
+| church.channel      | premium   | $623.75   | —             | 72             | 38     | 6      | name.com                                |
+| church.barcelona    | available | $38.98    | —             | 72             | 38     | 6      | namecheap                               |
+| belief.xyz          | resell    | —         | —             | 74             | 80     | 6      | Go Daddy, LLC                           |
+| faith.shop          | premium   | $1,250    | —             | 78             | 31     | 5      | name.com                                |
+| faith.xxx           | available | $154.98   | —             | 78             | 31     | 5      | namecheap                               |
+| belief.it           | resell    | —         | —             | 74             | 80     | 6      | —                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 15,999 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 19,211 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are defined by religion-related wording, but the set is broad in extension and commercial quality. Sample names such as faithful.london, tradition.boutique, canon.bot, and tradition.dating show that the same keyword can sit in very different TLD contexts. For founders, the main question is whether the full name feels credible, memorable, and appropriate for the audience. For investors, the priority is price discipline relative to extension quality and likely buyer depth. With a median ask of $772 across 19,211 names, this selection is better judged one name at a time than treated as a uniform category.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- 19,211 religion keyword domains in this selection
+- 505 TLDs creates wide quality and renewal variation
+- Median ask is $772, so price discipline matters
+- Check wording plus extension for credibility and fit
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Religion One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Religion Keyword Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
