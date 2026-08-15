@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| gods.adult         | available | $166.98   | —             | high           | low    | 4      | namecheap     |
-| gods.pro           | resell    | $1,355.07 | —             | high           | low    | 4      | GKG.NET, INC. |
-| the.live           | premium   | $700      | $1,400        | high           | medium | 3      | namecheap     |
-| gods.apartments    | available | $19.99    | —             | high           | low    | 4      | name.com      |
-| god.cheap          | resell    | —         | —             | high           | medium | 3      | Dynadot Inc   |
-| book.faith         | premium   | $6,250    | —             | high           | medium | 4      | name.com      |
-| gods.archi         | available | $24.99    | —             | high           | low    | 4      | name.com      |
-| gods.ca            | resell    | —         | —             | high           | low    | 4      | MyID.ca INC.  |
-| gods.boston        | premium   | $100      | —             | high           | low    | 4      | name.com      |
-| gods.band          | available | $29.99    | —             | high           | low    | 4      | name.com      |
-| gods.cafe          | resell    | —         | —             | high           | low    | 4      | Dynadot Inc   |
-| gods.church        | premium   | $250      | —             | high           | low    | 4      | name.com      |
-| gods.berlin        | available | $89.98    | —             | high           | low    | 4      | namecheap     |
-| gods.international | resell    | —         | —             | high           | low    | 4      | Dynadot Inc   |
-| gods.cyou          | premium   | $4.20     | $8.40         | high           | low    | 4      | namecheap     |
-| gods.bike          | available | $14.99    | —             | high           | low    | 4      | name.com      |
-| gods.mom           | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC  |
-| gods.dealer        | premium   | $2,170    | $2,800        | high           | low    | 4      | namecheap     |
-| gods.bz            | available | $25       | —             | high           | low    | 4      | name.com      |
-| hell.bar           | resell    | —         | —             | medium         | low    | 4      | GoDaddy       |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
+| nun.church    | available | $11.99    | —             | medium         | low    | 3      | name.com                        |
+| god.cheap     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                     |
+| nun.faith     | premium   | $625      | —             | medium         | low    | 3      | name.com                        |
+| gods.actor    | available | $19.99    | —             | high           | low    | 4      | name.com                        |
+| the.church    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                 |
+| the.mobile    | premium   | $2,500    | —             | high           | medium | 3      | name.com                        |
+| gods.autos    | available | $1.99     | —             | high           | low    | 4      | name.com                        |
+| gods.tv       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                     |
+| book.faith    | premium   | $6,250    | —             | high           | medium | 4      | name.com                        |
+| gods.bargains | available | $21.99    | —             | high           | low    | 4      | name.com                        |
+| gods.uk       | resell    | —         | —             | high           | low    | 4      | Presence Group Ltd t/a Presence |
+| gods.blog     | premium   | $175      | $700          | high           | low    | 4      | namecheap                       |
+| gods.black    | available | $29.99    | —             | high           | low    | 4      | name.com                        |
+| gods.world    | resell    | —         | —             | high           | low    | 4      | Squarespace Domains II LLC      |
+| gods.buzz     | premium   | $3,553.50 | —             | high           | low    | 4      | name.com                        |
+| gods.boats    | available | $1.99     | —             | high           | low    | 4      | name.com                        |
+| holy.it       | resell    | —         | —             | high           | high   | 4      | —                               |
+| gods.cfd      | premium   | $22.40    | $44.80        | high           | low    | 4      | namecheap                       |
+| gods.camp     | available | $11.99    | —             | high           | low    | 4      | name.com                        |
+| soul.church   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
