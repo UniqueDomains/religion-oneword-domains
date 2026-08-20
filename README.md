@@ -16,7 +16,7 @@ This is a curated set of one-word domain names tied to religion, spanning 167,76
 
 **Public extract:** 1,000 rows · **Live catalog:** 197,139 domains · **Median ask:** $434.28 · **High-demand under $2,500:** 731
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/religion`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| god.flights     | available | $58.99    | $58.99        | high           | medium | 3      | namesilo                                                  |
-| soul.financial  | resell    | $29.99    | —             | high           | medium | 4      | Porkbun LLC                                               |
-| god.institute   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
-| god.irish       | available | $9.99     | —             | high           | medium | 3      | name.com                                                  |
-| faithful.living | resell    | $39.99    | —             | high           | low    | 8      | Dynadot, LLC                                              |
-| god.schule      | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
-| god.kiwi        | available | $35.68    | —             | high           | medium | 3      | namecheap                                                 |
-| god.it          | resell    | —         | —             | high           | medium | 3      | —                                                         |
-| god.site        | premium   | $781.25   | —             | high           | medium | 3      | name.com                                                  |
-| god.reise       | available | $27.89    | $97.99        | high           | medium | 3      | namesilo                                                  |
-| law.church      | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| god.space       | premium   | $875      | $3,500        | high           | medium | 3      | namecheap                                                 |
-| god.tours       | available | $9.99     | —             | high           | medium | 3      | name.com                                                  |
-| the.church      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
-| god.vacations   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
-| god.viajes      | available | $37.99    | $37.99        | high           | medium | 3      | namesilo                                                  |
-| book.org        | resell    | —         | —             | high           | medium | 4      | eNom, LLC                                                 |
-| law.faith       | premium   | $650      | $84.50        | high           | medium | 3      | namecheap                                                 |
-| god.voyage      | available | $9.99     | —             | high           | medium | 3      | name.com                                                  |
-| holy.it         | resell    | —         | —             | high           | high   | 4      | —                                                         |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
+| nun.church      | available | $11.99    | —             | medium         | low    | 3      | name.com                        |
+| gods.pro        | resell    | $1,355.07 | —             | high           | low    | 4      | GKG.NET, INC.                   |
+| nun.faith       | premium   | $625      | —             | medium         | low    | 3      | name.com                        |
+| boon.church     | available | $8.48     | $78.98        | low            | low    | 4      | namecheap                       |
+| god.cheap       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                     |
+| the.live        | premium   | $700      | $1,400        | high           | medium | 3      | namecheap                       |
+| gods.adult      | available | $166.98   | —             | high           | low    | 4      | namecheap                       |
+| the.church      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                 |
+| book.faith      | premium   | $6,250    | —             | high           | medium | 4      | name.com                        |
+| gods.apartments | available | $19.99    | —             | high           | low    | 4      | name.com                        |
+| gods.agency     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 20               |
+| gods.boston     | premium   | $100      | —             | high           | low    | 4      | name.com                        |
+| gods.autos      | available | $1.99     | —             | high           | low    | 4      | name.com                        |
+| gods.mom        | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                    |
+| gods.church     | premium   | $250      | —             | high           | low    | 4      | name.com                        |
+| gods.band       | available | $29.99    | —             | high           | low    | 4      | name.com                        |
+| gods.tv         | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                     |
+| gods.cyou       | premium   | $4.20     | $8.40         | high           | low    | 4      | namecheap                       |
+| gods.bz         | available | $25       | —             | high           | low    | 4      | name.com                        |
+| gods.uk         | resell    | —         | —             | high           | low    | 4      | Presence Group Ltd t/a Presence |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Religion Domain Names Across 506 TLDs*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Religion Domain Names Across 506 TLDs*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
