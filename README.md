@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| nun.church      | available | $11.99    | —             | medium         | low    | 3      | name.com                        |
-| gods.pro        | resell    | $1,355.07 | —             | high           | low    | 4      | GKG.NET, INC.                   |
-| the.live        | premium   | $700      | $1,400        | high           | medium | 3      | namecheap                       |
-| gods.adult      | available | $166.98   | —             | high           | low    | 4      | namecheap                       |
-| god.cheap       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                     |
-| book.faith      | premium   | $6,250    | —             | high           | medium | 4      | name.com                        |
-| gods.apartments | available | $19.99    | —             | high           | low    | 4      | name.com                        |
-| gods.agency     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 20               |
-| gods.boston     | premium   | $100      | —             | high           | low    | 4      | name.com                        |
-| gods.band       | available | $29.99    | —             | high           | low    | 4      | name.com                        |
-| gods.cafe       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                     |
-| gods.church     | premium   | $250      | —             | high           | low    | 4      | name.com                        |
-| gods.bz         | available | $25       | —             | high           | low    | 4      | name.com                        |
-| gods.mom        | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                    |
-| gods.cyou       | premium   | $4.20     | $8.40         | high           | low    | 4      | namecheap                       |
-| gods.catering   | available | $46.99    | —             | high           | low    | 4      | name.com                        |
-| gods.uk         | resell    | —         | —             | high           | low    | 4      | Presence Group Ltd t/a Presence |
-| gods.fit        | premium   | $250      | —             | high           | low    | 4      | name.com                        |
-| gods.contact    | available | $16.78    | —             | high           | low    | 4      | namecheap                       |
-| hell.bar        | resell    | —         | —             | medium         | low    | 4      | GoDaddy                         |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| god.flights    | available | $58.99    | $58.99        | high           | medium | 3      | namesilo                                                  |
+| soul.financial | resell    | $29.99    | —             | high           | medium | 4      | Porkbun LLC                                               |
+| god.institute  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
+| god.irish      | available | $9.99     | —             | high           | medium | 3      | name.com                                                  |
+| god.it         | resell    | —         | —             | high           | medium | 3      | —                                                         |
+| god.schule     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
+| god.kiwi       | available | $35.68    | —             | high           | medium | 3      | namecheap                                                 |
+| law.church     | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| god.space      | premium   | $875      | $3,500        | high           | medium | 3      | namecheap                                                 |
+| god.reise      | available | $27.89    | $97.99        | high           | medium | 3      | namesilo                                                  |
+| the.church     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| god.vacations  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
+| god.tours      | available | $9.99     | —             | high           | medium | 3      | name.com                                                  |
+| book.org       | resell    | —         | —             | high           | medium | 4      | eNom, LLC                                                 |
+| law.faith      | premium   | $650      | $84.50        | high           | medium | 3      | namecheap                                                 |
+| god.viajes     | available | $37.99    | $37.99        | high           | medium | 3      | namesilo                                                  |
+| gods.us        | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| nun.faith      | premium   | $625      | —             | medium         | low    | 3      | name.com                                                  |
+| god.voyage     | available | $9.99     | —             | high           | medium | 3      | name.com                                                  |
+| holy.homes     | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
