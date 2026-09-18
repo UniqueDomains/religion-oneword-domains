@@ -1,10 +1,10 @@
-# One-Word Religion Domain Names Across 506 TLDs (164,228)
+# One-Word Religion Domain Names Across 506 TLDs (164,537)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-164%2C228%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-164%2C537%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a curated set of one-word domain names tied to religion, spanning 167,765 domains across 506 TLDs. Median ask sits near $522. Updated daily, the list reflects both classic and niche TLD extensions available for religion-related branding or investment.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **164,228 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **164,537 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 164,228 domains · **Median ask:** $342.67 · **High-demand under $2,500:** 182
+**Public extract:** 1,000 rows · **Live catalog:** 164,537 domains · **Median ask:** $342.94 · **High-demand under $2,500:** 182
 
 **Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/sector/religion`
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 164,228 live domains                       |
+| 1,000-row public sample | 164,537 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 182 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
