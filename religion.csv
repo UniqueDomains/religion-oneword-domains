@@ -152,6 +152,7 @@ fcbd5e6d-36ad-40d3-911d-9e9979ba51c9,ritual.fish,available,46.98,59.98,medium,lo
 540831da-1fb5-4d2e-81e3-0cdc26fd33bc,religious.pet,available,6.98,35.98,medium,low,9,namecheap,,,09/09/2026 13:37
 57f34a84-2dab-439b-881a-6abb49d23872,ritual.cv,premium,87.75,9.75,medium,low,6,namecheap,,,09/09/2026 18:01
 dc22aaa4-845b-4a53-9fbb-d4abb202d138,gods.paris,available,51.98,,high,low,4,namecheap,,,
+13903f6e-3913-4752-b5eb-6654cd90e6de,loyalty.faith,premium,3450,116,medium,low,7,namesilo,,,18/09/2026 10:32
 b138d429-b127-4593-9dc7-266114bd876e,worship.contractors,available,36.98,39.98,medium,low,7,namecheap,,,17/09/2026 09:43
 9d664223-7004-4c32-bec9-f1a4cf95bc47,gods.cool,available,9.99,,high,low,4,name.com,,,
 bf0011a0-f807-4621-a440-d81585077b0b,teacher.diy,premium,5.49,39.99,high,low,7,namesilo,,,
@@ -385,6 +386,7 @@ b1aaacad-2266-4986-93bb-7ea6da02a9c0,spiritual.tips,available,12.98,42.48,medium
 89e00168-0056-4f14-8718-0b163cfda8fb,enlightenment.domains,available,19.99,,medium,low,13,name.com,,,
 56095567-de63-4d04-afd1-b72bbe514643,faithfully.faith,premium,116,29.5,medium,low,10,namesilo,,,14/09/2026 11:42
 d10a762d-7c4b-456d-806f-d8654e01b567,worship.charity,available,14.99,23.99,medium,low,7,namesilo,,,17/09/2026 09:43
+90fec2f4-31cb-4d2c-8112-05b9bbfe2167,loyalty.fans,premium,139.98,139.98,medium,low,7,name.com,,,18/09/2026 10:32
 0809030a-f6e7-4b64-be3c-bb99b1015a5f,enlightenment.onl,available,3.79,23.49,medium,low,13,namesilo,,,
 76de73e2-84a7-4829-a707-ce82a71dc6b3,enlightenment.flights,available,58.99,58.99,medium,low,13,namesilo,,,
 30910dea-23ef-4c13-916c-4c88ee63ab77,enlightenment.tienda,available,9.99,,medium,low,13,name.com,,,
@@ -419,6 +421,7 @@ eb0fd51a-b9f3-4c78-b764-880a46800780,gods.reise,available,99.99,,high,low,4,name
 7cc05510-ed3e-4e93-9998-edf82b6c21e6,ceremony.family,premium,71.4,71.4,medium,low,8,namesilo,,,08/09/2026 07:31
 b090d116-2897-4817-9399-c1409122751e,religious.gripe,available,6.98,8.98,medium,low,9,namecheap,,,09/09/2026 13:37
 1aa9683b-034c-4770-a558-24fb926d128d,enlightenment.storage,available,509.99,529.99,medium,low,13,namesilo,,,
+0cb67676-9973-4477-bb9e-d7e728a10fae,loyalty.ong,available,16.99,16.99,medium,low,7,name.com,,,18/09/2026 10:32
 7c5cfc86-5a95-464a-a55a-07e6357f73c0,worship.moda,available,41.99,41.99,medium,low,7,namesilo,,,17/09/2026 09:43
 3c7fc763-c47a-433f-9f39-9a9b230a8a09,clergyman.immo,available,34.99,34.99,low,low,9,namesilo,,,09/09/2026 16:08
 eb5da165-c4d5-4d27-a17e-6b5c673eb72c,gods.fun,premium,156.25,,high,low,4,name.com,,,
@@ -445,6 +448,7 @@ b6c499a4-9080-4250-b304-ae0eabd92d4a,devotions.cruises,available,14.99,,medium,l
 13b8a048-db80-4617-9424-6d139624c324,inspiration.codes,available,11.99,,high,low,11,name.com,,,
 58fed1be-2508-4c35-9087-4e54c1b72d86,inspiration.dating,available,23.99,,high,low,11,name.com,,,
 89a6d48d-96d2-408c-99af-04efd5b4bfc0,ceremony.accountant,premium,448,53.92,medium,low,8,namesilo,,,08/09/2026 07:31
+7d261310-6523-4376-93e9-705bae90339f,loyalty.solutions,resell,,,medium,low,7,,,,18/09/2026 10:32
 f744acff-58b9-4221-9b09-bb47ae51f00e,enlightenment.forsale,available,19.99,,medium,low,13,name.com,,,
 0fc63958-218b-42b2-818f-9e7219ca9c3e,devotions.study,premium,53.92,53.92,medium,low,9,namesilo,,,
 72393124-0a61-4441-849c-4db367e16594,ceremony.hosting,available,309.99,429.99,medium,low,8,namesilo,,,08/09/2026 07:31
@@ -472,12 +476,14 @@ fcbadf4e-e7c3-4e5e-b582-68759e26faec,holy.audio,available,104.99,114.99,medium,l
 321eeee6-45ce-471d-8079-eb55c8d3f0cf,devotions.photo,available,29.99,29.99,medium,low,9,namesilo,,,
 fb1b1131-4c6e-4eb8-9ab5-20838e59c119,enlightenment.holdings,available,64.99,64.99,medium,low,13,namesilo,,,
 f02c3b16-8459-4afa-9495-ce6078d54390,cathedral.dental,available,78.99,78.99,medium,low,9,namesilo,,,11/08/2026 21:50
+2e351de4-047d-4485-8249-c5ea1ac3c2a3,loyalty.yoga,available,32.49,32.49,low,low,7,namesilo,,,18/09/2026 10:32
 a4230aad-8e16-4a58-b945-76299fb0a6cd,gods.fm,available,99,,high,low,4,name.com,,,
 bff76442-7d48-471f-ad22-a879ad82f698,congregational.flights,available,58.99,58.99,medium,low,14,namesilo,,,
 4870e4bb-f3d0-423d-8864-a07e9d770ad8,devout.name,available,8.98,9.98,medium,low,6,namecheap,,,14/08/2026 05:17
 be765544-bd42-4625-845a-710363b0a9d2,enlightenment.glass,available,72.99,72.99,medium,low,13,namesilo,,,
 4fdebdc1-2761-4cd0-a323-8f73420831e3,clergyman.cat,available,26.98,38.98,low,low,9,namecheap,,,09/09/2026 16:08
 14ae9d62-145e-49fe-a47c-3e0545169c1c,devotions.recipes,available,11.99,,medium,low,9,name.com,,,
+97ceaf8c-07bf-4d75-9fc6-6530e212f321,loyalty.gratis,available,26.99,29.99,medium,low,7,name.com,,,18/09/2026 10:32
 935b938d-369f-431c-a42c-cc5443ddf54d,brotherhood.kiwi,available,35.68,,high,low,11,namecheap,,,
 bca51b60-75b6-41d2-8dfe-6280ac7b6d02,gods.prof,premium,198.75,,high,low,4,name.com,,,
 81e5597b-2136-442c-be6b-013d6b7066c5,cathedral.associates,available,12.98,49.98,medium,low,9,namecheap,,,11/08/2026 21:50
@@ -492,11 +498,15 @@ e95146ea-fc53-4d84-8d2c-c265019cc008,cathedral.gripe,available,6.98,8.98,medium,
 d441637c-6f42-4f6a-8c96-67a61a59709e,worship.voting,available,1398,1448,medium,low,7,namecheap,,,17/09/2026 09:43
 3a12bbd0-c8d9-4045-b10b-1b59a4082d9e,congregational.nl,available,6.98,7.99,medium,low,14,namesilo,,,
 582b6ec7-527d-490b-b3b9-8c81b55d2886,cleric.faith,available,11.99,11.99,medium,low,6,namesilo,,,14/08/2026 23:27
+613e4d2e-4bb5-4f28-951a-8ec7b8938ba5,loyalty.game,available,349.99,619.99,low,low,7,name.com,,,18/09/2026 10:32
 04eb310c-caac-45c6-a7d3-ac0e549aa997,cathedral.dentist,available,63.98,81.98,medium,low,9,namecheap,,,11/08/2026 21:50
 a7e1129c-e3f9-4a50-80f7-5dbe12ef0389,cathedral.catering,available,38.99,38.99,medium,low,9,namesilo,,,11/08/2026 21:50
+f2ecf36e-3af7-4624-9428-fb52e5076f02,loyalty.boats,available,1.99,20.99,low,low,7,name.com,,,18/09/2026 10:32
 a4a6afed-5eb6-41b8-a633-21eadf54fa75,ceremony.contact,available,13.98,16.78,medium,low,8,namecheap,,,08/09/2026 07:31
 cc411ca1-5ecf-4de3-b027-dc87f0fbf878,tradition.ltd,available,9.99,,high,low,9,name.com,,,
+967c51f4-163a-4eb2-9419-398a8afc1c2a,loyalty.blackfriday,available,114.99,114.99,medium,low,7,namesilo,,,18/09/2026 10:32
 3fd30f3f-1f86-4fb9-aeec-98d12d75cf6c,holy.center,resell,,,medium,low,4,Dynadot Inc,22/03/2023 23:36,22/03/2027 23:36,21/08/2026 10:43
+41126ffe-f497-42a9-8a7d-a9fd924bcc41,loyalty.cyou,premium,74.75,149.5,low,low,7,namecheap,,,18/09/2026 10:32
 f2d967e8-8837-4f6f-9e39-16e617ecb83f,clergyman.cyou,available,1.39,25.98,low,low,9,namecheap,,,09/09/2026 16:08
 7c7372b6-5b7a-4ead-a17e-5a8a10ca8001,ritual.blackfriday,available,128.98,134.98,medium,low,6,namecheap,,,09/09/2026 18:01
 da92948e-a7de-43ad-a60c-fd05702618d9,ritual.voyage,available,61.98,73.98,medium,low,6,namecheap,,,09/09/2026 18:01
@@ -535,14 +545,19 @@ ce26043d-ec5c-49e7-88ad-73c453867d59,ritual.pink,available,6.48,31.48,medium,low
 43e41770-6bfe-4883-8939-db07445463ba,ritual.game,available,310.98,547.98,medium,low,6,namecheap,,,09/09/2026 18:01
 8ba09c88-c598-4770-ba93-7c23bc504ac7,divine.run,resell,,,medium,low,6,"Sav.com, LLC - 8",14/04/2026 15:15,14/04/2027 15:15,
 f7c29d8d-2849-46f4-94c5-9f3d3e44d108,enlightenment.fund,available,15.99,,medium,low,13,name.com,,,
+16ee296d-811d-4912-b4cc-eadb9d1a5360,loyalty.immo,available,34.99,34.99,low,low,7,namesilo,,,18/09/2026 10:32
 0b4c0de4-4639-4b54-aa42-7e1a012e13ed,ceremony.rest,available,1.8,41.98,medium,low,8,namecheap,,,08/09/2026 07:31
 bea78199-4bda-45e4-83d8-87c8b82ff3b5,holy.vegas,available,12.99,43.99,medium,low,4,namesilo,,,21/08/2026 10:43
+ced434e4-e69d-4165-9c46-767ff4f35f7d,loyalty.prof,premium,111.25,111.25,low,low,7,name.com,,,18/09/2026 10:32
 ea5a34ad-bc85-48ca-bada-b76e3f605a26,ceremony.loans,available,17.48,144.98,medium,low,8,namecheap,,,08/09/2026 07:31
 f7a8f435-be42-4285-bb66-c3ce4cc9bf0c,devout.tienda,available,9.99,77.99,medium,low,6,name.com,,,14/08/2026 05:17
 01181123-82b4-4f2c-8455-70d258b63bb2,enlightenment.cool,available,9.99,,medium,low,13,name.com,,,
+9c8b33dd-db86-41e6-82be-0ec220d165d1,loyalty.estate,available,6.98,52.98,low,low,7,namecheap,,,18/09/2026 10:32
 a981e7e7-7373-4429-ae2e-fefdec0cb8ad,religious.rsvp,premium,37.7,37.7,medium,low,9,namecheap,,,09/09/2026 13:37
+9be408fb-27ab-44e4-80b6-620b350f5586,loyalty.moda,available,41.99,41.99,low,low,7,namesilo,,,18/09/2026 10:32
 0faf0f0e-7161-4cd5-8d15-054a113d858a,souls.broker,available,19.99,,medium,low,5,name.com,,,
 9baeaca9-ec40-43c8-aa17-dfc83301e024,congregational.to,available,29.98,,medium,low,14,namecheap,,,
+25fae783-1cd0-47ac-8276-3f2745bd343e,loyalty.day,premium,76.7,76.7,low,low,7,namecheap,,,18/09/2026 10:32
 f7c962aa-b44a-42c5-8d2c-aafc0201806e,clergyman.tattoo,available,2.98,48.98,low,low,9,namecheap,,,09/09/2026 16:08
 fb7708cc-8f75-40e4-8b0d-ca1e39019e52,enlightenment.media,available,7.99,,medium,low,13,name.com,,,
 1b86f8d2-3946-44d1-9a01-809b3ddccb6a,congregational.market,available,44.49,44.49,medium,low,14,namesilo,,,
@@ -560,6 +575,7 @@ d9b3d5a4-42d4-4e87-8f98-6e778d030aa9,devout.city,available,5.98,37.98,medium,low
 71dca0d4-e2c7-4fce-8b97-f31bbece1dc3,ritual.university,available,65.98,77.98,medium,low,6,namecheap,,,09/09/2026 18:01
 70f5d01d-e9c2-44be-afbc-f9cf41e6121e,ceremony.insure,available,72.99,72.99,medium,low,8,namesilo,,,08/09/2026 07:31
 6b49ae43-a85b-47e6-a6a0-2c842cda6aab,ceremony.wtf,available,2.98,49.48,medium,low,8,namecheap,,,08/09/2026 07:31
+f7101bae-3964-4eb4-902d-ea7f47f22168,loyalty.bid,premium,448,53.92,low,low,7,namesilo,,,18/09/2026 10:32
 78bedbea-e928-4f33-a249-1364f29c8f05,devotions.dog,available,5.99,,medium,low,9,name.com,,,
 cff42dfb-eba5-4f4c-851b-46d0a7c84d70,ritual.loan,premium,455,65,medium,low,6,namecheap,,,09/09/2026 18:01
 b86d7b89-200a-4849-8d88-879cd0ddecf2,gods.bond,premium,25.9,51.8,high,low,4,namecheap,,,
@@ -587,6 +603,7 @@ fb0a5966-04cf-40b5-b858-13c7f432e7af,devotions.condos,available,58.99,58.99,medi
 4000467b-8c60-4496-b8a9-e859302bb72c,devout.limo,available,19.99,71.99,medium,low,6,name.com,,,14/08/2026 05:17
 b8c3c8cd-925b-44db-873c-979a27a921f1,cathedral.cool,available,5.98,50.98,low,low,9,namecheap,,,11/08/2026 21:50
 0b445ead-565c-47fa-b245-3618ae2c5443,afterlife.discount,available,29.98,39.98,medium,low,9,namecheap,,,15/09/2026 00:23
+f95ca764-be9f-46fb-a3bf-dc1c7fe843f0,loyalty.rentals,available,10.99,44.49,low,low,7,namesilo,,,18/09/2026 10:32
 e48d651b-5d6d-4fa1-a6db-e50f15522aaa,congregational.rent,available,17.99,59.99,medium,low,14,namesilo,,,
 4bb3720c-ee17-4efc-9c8b-78dffa590e13,gods.bid,available,9.98,,high,low,4,namecheap,,,
 45f2314a-91a7-495c-b622-cf344c86f62b,prayers.lgbt,available,14.99,79.99,low,low,7,namesilo,,,18/09/2026 03:21
@@ -628,11 +645,14 @@ b45cf46d-496c-4ed4-bcfd-7e47c3612b43,cathedral.plumbing,available,14.99,94.99,me
 a5f2aa18-deb0-443f-8246-68601d5cfe7a,clergyman.archi,available,14.98,132.98,low,low,9,namecheap,,,09/09/2026 16:08
 743fcd87-516b-404a-974f-7931eee47e35,clergyman.express,available,9.98,49.98,low,low,9,namecheap,,,09/09/2026 16:08
 2fa947a6-881d-445f-ad5a-f721cea0e510,religious.lifestyle,available,1.8,48.98,medium,low,9,namecheap,,,09/09/2026 13:37
+0c642ffd-ea52-4d71-841f-ed1fd4827965,loyalty.net,resell,,,low,low,7,,,,18/09/2026 10:32
 80776b07-db10-4e06-b55c-9009b482d4a7,bless.mobile,premium,375,,high,low,5,name.com,,,
+49465322-e36d-42ce-99b3-2a73ae46ebae,loyalty.gripe,available,39.49,43.99,low,low,7,name.com,,,18/09/2026 10:32
 c0b807db-984c-4dc3-973f-6c743a95be97,afterlife.guitars,available,104.99,114.99,medium,low,9,namesilo,,,15/09/2026 00:23
 beee9a78-43cb-4602-a718-37c4f2f52972,clergyman.auction,available,36.99,36.99,low,low,9,namesilo,,,09/09/2026 16:08
 4c134d06-519c-4f07-b883-4e3bfcf9fb25,cathedral.lease,available,14.99,71.99,medium,low,9,name.com,,,11/08/2026 21:50
 0f15ecf5-5be8-4a7f-b3e6-7eac9e1dd393,ceremony.ooo,premium,83.29,23.59,medium,low,8,namesilo,,,08/09/2026 07:31
+2c4f10fb-c985-406c-bcc4-1bc985819098,loyalty.observer,premium,11.8,11.8,low,low,7,namesilo,,,18/09/2026 10:32
 491ca0fc-c6c3-45df-bf4f-2b5e87b067e4,prayers.courses,available,2.19,38.99,low,low,7,namesilo,,,18/09/2026 03:21
 4ace378d-a51d-4b42-8167-61b260f5ab4c,holy.moda,available,19.99,52.99,medium,low,4,name.com,,,21/08/2026 10:43
 ec7be7a8-8978-4820-a80d-f6dfc866782b,reflection.ryukyu,available,22.98,,high,low,10,namecheap,,,
@@ -653,6 +673,7 @@ b8aa75a9-cf76-4252-ab04-443328ce161e,ceremony.farm,available,4.98,49.98,medium,l
 4caedac5-782d-4577-ba55-41a015849f21,prayers.autos,available,1.8,21.98,low,low,7,namecheap,,,18/09/2026 03:21
 4281defa-c01e-40a6-8bd1-17d1254b2faf,righteous.shop,resell,,,high,low,9,GoDaddy.com LLC,13/04/2025 08:34,13/04/2027 23:59,
 a91629d7-fcbf-4e5f-9b93-e453c07ede21,gods.football,available,19.99,,high,low,4,name.com,,,
+a9d634ce-3de3-456b-864f-ace65171b1e8,loyalty.technology,resell,,,low,low,7,,,,18/09/2026 10:32
 615388af-d402-44e2-8a3b-92be1aa86848,gods.free,premium,1250,,high,low,4,name.com,,,
 538d3ae6-83c6-4d9e-bb45-e9abd7c63d9b,devotions.food,available,5.49,39.99,medium,low,9,namesilo,,,
 06e8dd96-14fe-46c4-bb90-b5eb93db2cca,quran.markets,available,5.98,26.98,low,low,5,namecheap,,,18/09/2026 01:05
@@ -675,11 +696,14 @@ b80f46be-f498-40d9-9b2d-445815a4baa4,congregational.group,available,10.99,,mediu
 49e13b80-6eca-4585-a74f-92ef46d796f6,holy.domains,available,19.99,56.99,medium,low,4,name.com,,,21/08/2026 10:43
 65926951-568f-4dae-8222-be93ae0d039d,ritual.sex,available,69.98,154.98,medium,low,6,namecheap,,,09/09/2026 18:01
 15e191d2-ba44-45d6-a0d4-aeaeee34d8be,monk.cricket,available,23.59,23.59,medium,low,4,namesilo,,,25/08/2026 04:11
+2fe920c6-98ef-4068-8003-18bd8506f117,dedication.one,available,7.99,24.75,low,low,10,namesilo,,,18/09/2026 10:32
 b46467d5-4a51-4ee2-af42-8dcfb21fafa5,monk.guitars,available,104.99,114.99,medium,low,4,namesilo,,,25/08/2026 04:11
 317dcee3-218f-49c1-bbde-2b960f52e54d,divine.talk,premium,71.4,71.4,medium,low,6,namesilo,,,
+d6641a81-ea79-4fd5-ad73-3150840c52f1,loyalty.lease,available,56.99,56.99,low,low,7,namesilo,,,18/09/2026 10:32
 5136824e-bd6e-4ab1-a109-c6686d3fe7d9,prayers.bio,available,9.99,69.99,low,low,7,namesilo,,,18/09/2026 03:21
 6c1b8dbc-908b-4b50-8b5e-f9ad76815615,cathedral.software,available,11.98,56.98,low,low,9,namecheap,,,11/08/2026 21:50
 033a19c9-dbcf-410a-8a11-95d4e9073620,ritual.luxe,available,,,medium,low,6,,,,09/09/2026 18:01
+21399d88-7af9-42b4-82bb-edfb703456e3,loyalty.film,available,65.99,65.99,low,low,7,namesilo,,,18/09/2026 10:32
 b5df7310-0df8-4c84-b146-74f0f1c2e5bc,devout.cv,premium,75.86,8.85,medium,low,6,namesilo,,,14/08/2026 05:17
 3187e4eb-4f7a-4b2f-8462-bdb23c7a32f4,enlightenment.london,available,31.99,31.99,medium,low,13,namesilo,,,
 27398c27-b60a-4d80-b03c-633f34c44197,inspiration.vote,available,49.99,,high,low,11,name.com,,,
@@ -700,14 +724,17 @@ cfb2b4db-509a-4c15-8518-1653fb87dcca,quran.town,available,8.99,36.49,low,low,5,n
 816196bc-8efc-402e-91d7-33177492d2db,inspiration.science,premium,3125,,high,low,11,name.com,,,
 0d4ae4ea-ec25-4e21-afe0-2ce70b9b0a8a,holy.cash,resell,,,medium,low,4,"DNSPod, Inc.",24/02/2024 15:15,24/02/2030 15:15,21/08/2026 10:43
 a6c0753a-0d85-4a2e-9df3-3195bae5d3e2,congregation.mobile,premium,750,,high,low,12,name.com,,,
+c4f4e784-ac44-4431-9f84-7a58e36f4723,loyalty.cooking,available,32.49,32.49,low,low,7,namesilo,,,18/09/2026 10:32
 ed0626dd-369a-46a6-be61-ea9ea4cc6378,afterlife.bid,premium,448,53.92,medium,low,9,namesilo,,,15/09/2026 00:23
 b52dbca7-edc3-4955-915a-3dbb4991f1d4,devotions.archi,available,24.99,,medium,low,9,name.com,,,
 3013c228-4b69-4436-8448-851d4ab6426b,clergyman.accountant,available,23.59,23.59,low,low,9,namesilo,,,09/09/2026 16:08
 93dd236f-e9c4-4177-af11-fa894511c796,clergyman.law,available,95.99,95.99,low,low,9,namesilo,,,09/09/2026 16:08
 6fdb81b1-c6eb-4b8d-b84e-228246d7a2c0,inspiration.fund,available,15.99,,high,low,11,name.com,,,
+c60704de-d799-4d10-89e0-b8e3d332fe80,loyalty.pictures,available,15.49,15.49,low,low,7,namesilo,,,18/09/2026 10:32
 edd98e99-727c-41c8-9f89-901bfe6a44ff,inspiration.dog,available,5.99,,high,low,11,name.com,,,
 43c17416-90ac-4ee6-8e58-e68b68b8bf8e,devotions.cc,available,4.19,9.99,medium,low,9,namesilo,,,
 d2ab8987-d61f-4ebf-8cdd-4b293c8022e8,devout.sh,available,34.98,76.98,medium,low,6,namecheap,,,14/08/2026 05:17
+f9ff3797-7812-40dc-8466-4c604cc9326e,dedication.diet,available,104.99,114.99,low,low,10,namesilo,,,18/09/2026 10:32
 de1d7229-00dc-4acd-a0e8-a066d8a1ad84,religious.camp,available,62.99,62.99,medium,low,9,namesilo,,,09/09/2026 13:37
 2115fe7f-5e1a-4070-b380-5ddd1db6d048,holy.red,available,9.48,28.48,medium,low,4,namecheap,,,21/08/2026 10:43
 e6038c84-c75c-45a7-ace3-27159c144443,quran.photo,available,31.98,40.98,low,low,5,namecheap,,,18/09/2026 01:05
@@ -719,6 +746,7 @@ a9732b67-36e9-4ff9-9271-ec35c129c138,holy.gold,resell,,,medium,low,4,"DNSPod, In
 c0547971-e8c4-4a35-94f4-106e065d450f,gods.icu,premium,9.8,19.6,high,low,4,namecheap,,,
 94dad997-a95b-482d-a689-38baf18b4c45,ceremony.rent,available,1.5,81.98,medium,low,8,namecheap,,,08/09/2026 07:31
 e201ea8f-8e0e-4d14-b3a8-db9402814d2e,afterlife.financial,available,17.48,66.98,medium,low,9,namecheap,,,15/09/2026 00:23
+bb508f2e-d797-44d0-9338-19db24e7ace6,loyalty.vote,available,34.99,90.99,medium,low,7,namesilo,,,18/09/2026 10:32
 25c93d54-0d28-45bd-9e10-08b535ae1f30,enlightenment.investments,available,14.99,,medium,low,13,name.com,,,
 44206d4d-45f5-40a7-975f-6caf96a391a2,prayers.dentist,available,65.99,65.99,low,low,7,namesilo,,,18/09/2026 03:21
 1458a51f-b50e-472f-b9bf-562225595ddf,holy.fail,premium,118.8,118.8,medium,low,4,namesilo,,,21/08/2026 10:43
@@ -741,12 +769,16 @@ f7fe245c-36f4-4ac6-8028-388158ea0226,kind.ryukyu,available,22.98,,high,low,4,nam
 7bab6841-9ce6-459e-ae33-1c558207f356,worship.sbs,premium,68.43,147.2,medium,low,7,namesilo,,,17/09/2026 09:43
 8ead4036-1a6c-402e-b486-eb2002806743,ritual.fans,premium,65,130,medium,low,6,namecheap,,,09/09/2026 18:01
 fb555051-cc6a-4b05-a9cb-8580ccb287f4,cathedral.fast,premium,53.92,53.92,medium,low,9,namesilo,,,11/08/2026 21:50
+bf7ee6a5-8ccc-4b86-a575-9835a6fe86e2,loyalty.kim,available,5.98,32.98,low,low,7,namecheap,,,18/09/2026 10:32
 020a2709-b873-4baa-b36d-c598044f6e42,spiritual.skin,available,1.8,19.98,medium,low,9,namecheap,,,06/08/2026 05:42
 e23bde1b-8d07-4cf1-a472-1431bb0253d1,quran.cars,available,2070,2950,low,low,5,namecheap,,,18/09/2026 01:05
+e5a5bc1c-56bf-4b10-8a4d-83dfdc2e0554,loyalty.engineer,available,38.99,38.99,low,low,7,namesilo,,,18/09/2026 10:32
 14b02149-22d0-47bf-a7d1-2afddda88bd4,devotions.vin,available,11.99,,medium,low,9,name.com,,,
 98ea5895-0b3f-4193-bf15-f35fb8b2e758,religious.supplies,available,24.99,24.99,medium,low,9,namesilo,,,09/09/2026 13:37
 c904ec38-9679-4ddb-a0db-33e7a9adfcce,congregational.fan,available,11.99,,medium,low,14,name.com,,,
 fb5858bc-6a7f-4dd2-a908-5bf235eeb06c,reliability.desi,available,22.98,,high,low,11,namecheap,,,
+54af7118-bb62-4ada-a9c3-b4d8a52a5f68,dedication.clinic,available,19.99,84.99,low,low,10,name.com,,,18/09/2026 10:32
+cb2256d9-6f84-435d-92a1-23d4b3985172,loyalty.bar,premium,576,576,low,low,7,namesilo,,,18/09/2026 10:32
 b2ee1945-e07c-4c13-9bc0-3dcb388b56e0,monk.repair,available,5.98,47.48,low,low,4,namecheap,,,25/08/2026 04:11
 e8e948fc-bad7-4ae3-bc5c-36786a2b0c24,worship.claims,available,17.99,64.99,medium,low,7,namesilo,,,17/09/2026 09:43
 d3401cf1-cb00-404b-b1f8-4ff37725d082,ritual.cat,available,26.98,38.98,medium,low,6,namecheap,,,09/09/2026 18:01
@@ -761,6 +793,7 @@ fcc26cca-3b14-47af-8d18-236f8a4277e1,devout.singles,available,3.98,36.98,medium,
 ef299604-3be5-4837-8492-c69283f7eca5,clergyman.shopping,available,26.99,26.99,low,low,9,namesilo,,,09/09/2026 16:08
 24a8f063-6373-4a65-8bfc-c25c96dacd38,cathedral.ski,available,39.99,86.99,medium,low,9,name.com,,,11/08/2026 21:50
 27d56d51-fb4b-466b-ac77-60f30d3b4ea9,religious.doctor,resell,,,medium,low,9,"GoDaddy.com, LLC",01/04/2019 19:28,01/04/2027 19:28,09/09/2026 13:37
+f5cd4fec-c154-4b60-8e5e-4a8686c3a9cd,dedication.yoga,available,46.99,46.99,low,low,10,name.com,,,18/09/2026 10:32
 5d8fe9d2-9b32-4dbb-8c61-232c02a290da,afterlife.theater,available,65.99,65.99,medium,low,9,namesilo,,,15/09/2026 00:23
 57f9c653-07bb-476f-a7e4-e8e8d85b59a1,good.ryukyu,available,22.98,,high,medium,4,namecheap,,,
 a0eecb5a-ce2f-4f94-9b8b-606db4ebb169,reliability.broker,available,19.99,,high,low,11,name.com,,,
@@ -774,9 +807,11 @@ a8a06530-1b2f-47ce-9099-18c16e460a69,brotherhood.barcelona,available,38.98,,high
 98f8440b-6776-4fd5-af43-32729104509e,quran.vegas,available,12.99,43.99,low,low,5,namesilo,,,18/09/2026 01:05
 0701adb4-aa67-4a71-befb-69e209c29baf,abbey.international,available,12.99,31.49,low,low,5,namesilo,,,16/09/2026 14:25
 c2544c8e-bdd6-4de1-ab8e-dfebe9908994,devotions.hosting,available,309.99,329.99,medium,low,9,namesilo,,,
+62a57382-b18d-4169-8b75-c994854fc21a,dedication.review,premium,448,53.92,low,low,10,namesilo,,,18/09/2026 10:32
 a107ee4e-7661-4b42-9ee5-1febc4c2c40f,clergyman.community,available,45.99,45.99,low,low,9,namesilo,,,09/09/2026 16:08
 9f0de545-b4b7-4f2b-b8bc-c91333622d32,enlightenment.xxx,available,154.98,,medium,low,13,namecheap,,,
 22db8137-8ab8-4671-bfef-8013aa3648df,holy.ngo,available,16.99,16.99,medium,low,4,name.com,,,21/08/2026 10:43
+f21a93aa-6516-4f18-8848-97a2bf6c508c,loyalty.hosting,available,309.99,429.99,medium,low,7,namesilo,,,18/09/2026 10:32
 f0c4b6b1-d687-4806-a9c4-9cdc6d528b50,affiliation.markets,available,9.99,,high,low,11,name.com,,,
 1d8c5fdb-cb1f-470f-a623-bc516cbc1541,quran.pink,available,14.49,25.99,low,low,5,namesilo,,,18/09/2026 01:05
 33ab0c80-e14e-4d04-9683-f111035b3414,pious.moe,available,14.98,17.88,medium,medium,5,namecheap,,,08/09/2026 19:57
@@ -793,6 +828,7 @@ abebbc91-b2ed-4bc9-b45d-69b122db499d,divine.desi,available,19.98,22.98,medium,lo
 6a8525d8-13b0-48cc-902b-294ddd3df707,prayers.quest,available,1.8,21.98,low,low,7,namecheap,,,18/09/2026 03:21
 53c447a6-0e74-4370-a927-19f215eb4803,clergyman.rehab,available,36.99,36.99,low,low,9,namesilo,,,09/09/2026 16:08
 cd0b7108-afcf-402a-b789-e3260e9b42a6,gods.vote,available,49.99,,high,low,4,name.com,,,
+8688bc64-bca6-4735-8b42-aecdc271a6c4,dedication.cv,available,14.98,14.98,low,low,10,namecheap,,,18/09/2026 10:32
 c62d15d6-7e34-4d6d-9064-ab1d79cde172,religious.sexy,available,2749.99,2749.99,medium,low,9,namesilo,,,09/09/2026 13:37
 12e161be-9659-41ec-be63-910c04f2dda3,clergyman.coupons,available,2.98,59.98,low,low,9,namecheap,,,09/09/2026 16:08
 22b72064-512c-4184-9ce6-f5383ee26407,prayers.miami,available,23.49,23.49,low,low,7,namesilo,,,18/09/2026 03:21
@@ -805,6 +841,7 @@ d7487857-1cb3-4121-ab06-03c492996fd7,connection.ryukyu,available,22.98,,high,low
 190b4a7d-68eb-4e38-aea5-137fea1967c2,enlightenment.restaurant,available,29.99,,medium,low,13,name.com,,,
 9b1e1b65-c9c3-4029-b266-24503b4bfbf4,enlightenment.global,available,59.99,,medium,low,13,name.com,,,
 36476fcf-8b28-4ed7-be9b-3f06f118c0d2,clergyman.rich,available,94.99,1999,low,low,9,namesilo,,,09/09/2026 16:08
+8d0ff247-738b-4aab-84d3-1e5212c1c883,loyalty.vc,resell,,,low,low,7,,,,18/09/2026 10:32
 fc771c83-072e-40b9-a724-8897df8cb3f3,abbey.pics,available,1.99,32.49,low,low,5,namesilo,,,16/09/2026 14:25
 b11a6fd5-8fe2-4dac-a1a5-d86cc4419073,inspiration.recipes,available,11.99,,high,low,11,name.com,,,
 ad5d7cda-8d29-45ae-936c-8913c7df5ead,holy.game,available,309.99,329.99,medium,low,4,namesilo,,,21/08/2026 10:43
@@ -816,6 +853,7 @@ ad5d7cda-8d29-45ae-936c-8913c7df5ead,holy.game,available,309.99,329.99,medium,lo
 1a265330-d6ba-4945-8d55-ba6061b36991,advantage.shop,resell,,,high,low,9,"Spaceship, Inc.",18/02/2021 00:15,18/02/2027 23:59,
 582dd80e-7a04-4344-8e0e-116dfbb1d1e9,clergyman.luxe,available,19.49,19.49,low,low,9,namesilo,,,09/09/2026 16:08
 76890684-e67f-431f-aec0-ffd70554ea28,quran.gifts,available,38.48,47.48,low,low,5,namecheap,,,18/09/2026 01:05
+1b67294b-c816-48a5-b299-8de7a7cd4637,loyalty.supplies,available,35.99,35.99,low,low,7,name.com,,,18/09/2026 10:32
 ff26b51c-bae2-414b-8185-8433e875ed27,afterlife.yoga,available,32.49,32.49,medium,low,9,namesilo,,,15/09/2026 00:23
 2c85b106-00ff-4b4f-925a-0b7162b60f55,quran.apartments,available,57.99,57.99,low,low,5,namesilo,,,18/09/2026 01:05
 1a732e17-b3e2-4ef2-928b-3dfa568cc137,devout.black,available,17.48,82.98,medium,low,6,namecheap,,,14/08/2026 05:17
@@ -871,11 +909,12 @@ a667e750-f198-4e5c-9099-0f0d922d21ab,monk.vegas,available,12.99,43.99,low,low,4,
 3d4c91b0-1558-4560-b218-0372da4dfb5b,prayers.garden,available,2.19,32.49,low,low,7,namesilo,,,18/09/2026 03:21
 bf852a08-af2f-4efd-b8a9-fa26a0b1b6d0,holy.blackfriday,available,114.99,114.99,medium,low,4,namesilo,,,21/08/2026 10:43
 58af27c7-c18e-4752-b7e9-9c5130f2c051,mystical.country,available,2298,2450,low,low,8,namecheap,,,03/09/2026 12:24
-c9992fbc-e756-4d58-9c48-e1f1d44ea61c,parishes.contractors,available,9.99,,medium,low,8,name.com,,,
 8e0ce4b7-f9b1-4a4e-b42c-dfe8408b48bb,prayers.ltd,available,4.98,42.98,low,low,7,namecheap,,,18/09/2026 03:21
+390af1d1-7e76-4cfa-90f6-3ac80ec7064c,loyalty.autos,available,1.99,17.29,low,low,7,namesilo,,,18/09/2026 10:32
 0dd64c13-1f8c-45b8-9c5d-8fa1a4a22c3b,sin.cam,premium,854,16.52,medium,medium,3,namesilo,,,10/09/2026 08:32
 500ae653-2b10-45ce-be6c-0d501d5a5114,devotions.florist,available,14.99,,medium,low,9,name.com,,,
 a38ac008-dec4-454a-98ee-b8ba82d99ee8,congregational.storage,available,509.99,529.99,medium,low,14,namesilo,,,
+afe5053c-81d4-4d97-81cf-915929147437,loyalty.futbol,available,5.98,21.98,medium,low,7,namecheap,,,18/09/2026 10:32
 e36589f4-255a-4652-a17b-867e532629e8,devout.rehab,available,14.99,52.99,medium,low,6,name.com,,,14/08/2026 05:17
 b340de87-be1e-4648-b90a-4752703c2f75,quran.institute,resell,,,low,low,5,,,,18/09/2026 01:05
 e0755fb9-cca1-4219-926f-7fe4be41ed24,pious.hosting,available,310.98,437.98,medium,medium,5,namecheap,,,08/09/2026 19:57
@@ -885,7 +924,6 @@ e709da19-e291-471d-a279-744c4179d8b2,monk.camp,available,11.99,77.99,low,low,4,n
 034891a0-709b-4a1a-a9de-1cc5e05f94bb,afterlife.mba,available,11.98,49.98,medium,low,9,namecheap,,,15/09/2026 00:23
 b73a2c46-0550-4833-84d5-5df0ab77e1d6,sin.barcelona,available,38.98,38.98,medium,medium,3,namecheap,,,10/09/2026 08:32
 d3bcd911-5ae3-4c2e-a458-94d7cb0b1289,gods.live,resell,,,high,low,4,"DNSPod, Inc.",04/01/2024 15:15,04/01/2027 15:15,
-9d81b2fa-4f5f-482f-b1c5-afffcd84e60f,parishes.futbol,available,19.99,,medium,low,8,name.com,,,
 3093903a-ff65-4344-88fc-817877d08aef,quran.icu,premium,384,768,low,low,5,namesilo,,,18/09/2026 01:05
 694bb9e6-1ce5-4f66-adc5-81bda19f3ba8,prayers.nyc,available,31.99,31.99,low,low,7,namesilo,,,18/09/2026 03:21
 2538e26f-2823-47b8-aa3e-3ab662e98e0d,fellowships.cheap,available,9.99,,medium,low,11,name.com,,,
@@ -910,6 +948,7 @@ e7ef1b3c-878c-4e1b-a265-00a37e24bd04,devout.esq,available,25.98,29.98,medium,low
 4d143967-5300-4935-8653-fd3cc56b6f68,ceremony.villas,available,59.99,59.99,medium,low,8,namesilo,,,08/09/2026 07:31
 bf7ad08f-8ff0-4533-a990-0dac7b5892ab,abbey.health,resell,,,low,low,5,,,,16/09/2026 14:25
 bf8418ce-9b49-4d02-9442-1d0666ece03b,devout.contractors,available,9.99,45.99,medium,low,6,name.com,,,14/08/2026 05:17
+75e7b684-ec8a-4c60-b754-0aadf473e1ad,loyalty.apartments,available,19.99,83.99,low,low,7,name.com,,,18/09/2026 10:32
 f751b74b-73dc-4b51-be58-7f1e81841491,pious.buzz,available,1.98,41.98,medium,medium,5,namecheap,,,08/09/2026 19:57
 3fd6d11c-a787-43c6-955d-f75232653592,fellowships.lease,available,14.99,,medium,low,11,name.com,,,
 28c35ef1-f41a-4a34-a9f6-9d7b2a436d58,congregational.fun,available,2.99,41.99,medium,low,14,namesilo,,,
@@ -918,9 +957,9 @@ eaecccd9-a6e9-4032-b1ca-847dd743a827,inspiration.graphics,available,23.99,23.99,
 ffb64fc5-9ba6-408a-b512-b67ff3ad0edc,inspiration.gripe,available,6.99,6.99,high,low,11,namesilo,,,
 b32f2cfd-96c6-41ae-a871-0d3899f834c4,monk.rehab,available,14.99,52.99,low,low,4,name.com,,,25/08/2026 04:11
 68e13213-9ad1-4921-b469-1c082ec3721a,clergyman.storage,available,509.99,529.99,low,low,9,namesilo,,,09/09/2026 16:08
-d778a3ae-eabe-48fb-8d91-b41b3ed32d1c,parishes.careers,available,49.99,,medium,low,8,name.com,,,
 d2b00758-bf78-46ba-a19f-5dda2f551726,quran.faith,premium,6500,130,low,low,5,namecheap,,,18/09/2026 01:05
 24f0d10b-e457-405b-a5df-67cab6e2fc15,devout.haus,available,11.98,37.98,medium,low,6,namecheap,,,14/08/2026 05:17
+8e37c18f-1afa-409f-8d79-813127b20bef,dedication.club,premium,29.5,17.7,low,low,10,namesilo,,,18/09/2026 10:32
 063192bf-6d0f-4d6b-bad2-6cd14193e93b,congregational.finance,available,15.99,,medium,low,14,name.com,,,
 c037139b-eb08-4237-8875-0b47a16efa5f,worship.viajes,available,43.98,57.98,medium,low,7,namecheap,,,17/09/2026 09:43
 e2fc2b16-1548-494e-a41d-f595aaeea99b,enlightenment.ceo,available,10.19,109.99,medium,low,13,namesilo,,,
@@ -937,7 +976,6 @@ b7ac4083-3c93-4c11-bf54-94a5483b808c,cathedral.health,resell,,,low,low,9,"Spaces
 f8a98391-9c13-4739-afec-62859f9e7e95,clergyman.lat,available,1.8,40.98,low,low,9,namecheap,,,09/09/2026 16:08
 009c1e9c-3826-4167-9928-5497a077ed99,clergyman.day,available,12.98,16.98,low,low,9,namecheap,,,09/09/2026 16:08
 b73c9960-0d81-4977-80a0-f471b487a93f,fellowships.tax,available,14.99,,medium,low,11,name.com,,,
-fc25be75-62c0-47df-a27d-412e4e8479a0,parishes.parts,available,15.99,,medium,low,8,name.com,,,
 f9f72e42-ea0e-4850-9c97-f60ee980adf2,religious.buzz,available,1.98,41.98,medium,low,9,namecheap,,,09/09/2026 13:37
 80c82e0a-fdfb-44c5-8f0e-95dcb6d9421e,quran.photos,available,15.99,29.99,low,low,5,namesilo,,,18/09/2026 01:05
 763e4d2d-dbec-4a14-8b02-90e50d313d40,devout.nyc,available,6.98,43.98,medium,low,6,namecheap,,,14/08/2026 05:17
@@ -960,42 +998,4 @@ c5c30707-f67d-40e5-afd0-4b25a41e775c,abbey.ceo,available,10.19,129.99,low,low,5,
 b2eb3023-9221-41ca-afde-9e6dfc5054bb,devotions.attorney,available,62.99,62.99,medium,low,9,namesilo,,,
 eecaeafa-fcbb-4df2-b670-4112a70e1ddc,devout.casino,available,6.98,191.98,medium,low,6,namecheap,,,14/08/2026 05:17
 da57766e-0dee-46d5-ab92-06ddac372f32,prayers.management,available,25.99,25.99,low,low,7,namesilo,,,18/09/2026 03:21
-f3bd9409-5ddf-46b3-b32b-2441448c991f,clergyman.care,available,10.98,59.98,low,low,9,namecheap,,,09/09/2026 16:08
-9e79959b-1f67-48c8-b195-721c8ad0ed05,parishes.pw,available,20.48,,medium,low,8,namecheap,,,
-975d0a28-747c-46bc-9a60-34db524c8316,devotions.photos,available,14.99,,medium,low,9,name.com,,,
-e83d270c-85f0-4743-a38f-094644b0cd7f,holy.hot,premium,1107,1107,medium,low,4,namesilo,,,21/08/2026 10:43
-3fcb25ad-c563-4f20-9d02-50df54797df1,clergyman.style,available,7.98,49.98,medium,low,9,namecheap,,,09/09/2026 16:08
-a95261ca-f9d1-4351-9aaf-984460cff7b0,spiritual.forex,available,11.98,133.98,medium,low,9,namecheap,,,06/08/2026 05:42
-b96822f7-98f9-4bd1-865f-b92483f37b52,worship.shopping,available,26.99,26.99,medium,low,7,namesilo,,,17/09/2026 09:43
-4c8fc243-f0ac-411c-b818-6da08d24fac1,devotions.day,available,16.98,,medium,low,9,namecheap,,,
-8e2233a7-798f-4383-94a7-2ee05c721cd2,devout.toys,available,14.98,82.48,medium,low,6,namecheap,,,14/08/2026 05:17
-bbad74bf-f30d-44bd-b824-1ad8fcbed809,abbey.insure,available,72.99,72.99,low,low,5,namesilo,,,16/09/2026 14:25
-99770562-3a7e-4274-bc01-55544880ff83,monk.movie,available,40.98,446.98,low,low,4,namecheap,,,25/08/2026 04:11
-9ba49ea0-fb8f-48ae-96c8-ab7c3031561e,abbey.audio,available,108.98,159.98,low,low,5,namecheap,,,16/09/2026 14:25
-1911e0fe-16f6-4c03-97e0-f5284ccebfe3,ceremony.pet,available,6.98,35.98,medium,low,8,namecheap,,,08/09/2026 07:31
-cacc3f71-8cd6-44b5-a2dc-6bbc83d65e4e,heavenly.cloud,resell,,,medium,low,8,"Dynadot, LLC",21/04/2026 22:00,21/04/2027 22:00,11/08/2026 23:21
-43f5d4af-035d-48f2-bef1-3475d7843c3e,religious.solar,available,64.99,64.99,medium,low,9,namesilo,,,09/09/2026 13:37
-4141e6a2-b62d-4b08-9e55-36782d36f84f,gods.industries,available,17.49,,high,low,4,name.com,,,
-f699b15e-2bd6-4225-b790-1c33cd40aba2,prior.shop,premium,625,,medium,low,5,name.com,,,
-141d241b-aaf2-4946-b192-c5dcfbaa592d,worship.eco,available,72.98,101.98,medium,low,7,namecheap,,,17/09/2026 09:43
-6aa9741d-64f5-4a29-83c0-da5149afee83,devotions.ventures,available,19.99,,medium,low,9,name.com,,,
-94a7fd48-2af6-4419-8373-c95e5a88f07d,fellowships.fans,available,9.88,9.88,medium,low,11,namesilo,,,
-77c6582a-4cb4-4e63-9471-7f40f9d2f6e7,fellowships.rentals,available,14.99,,medium,low,11,name.com,,,
-f295adde-a6ff-48a7-811c-5fcaeb9fe7b4,afterlife.fm,premium,249.6,102,medium,low,9,namesilo,,,15/09/2026 00:23
-923fe027-bf92-476c-b9ac-7030d21e6eae,sin.college,available,1.5,81.98,medium,medium,3,namecheap,,,10/09/2026 08:32
-32032378-b526-471d-ba29-9824b7c037fb,congregational.website,available,2.99,22.99,medium,low,14,namesilo,,,
-43c452db-c86f-42ff-9ac2-e7b01714766e,cathedral.blue,available,13.98,32.98,low,low,9,namecheap,,,11/08/2026 21:50
-e51790ee-eee1-4e80-bbd2-01a29169b6bf,prayers.channel,available,12.98,16.48,low,low,7,namecheap,,,18/09/2026 03:21
-517fdd3c-fb44-4588-b8a0-2d9efe22ec28,ceremony.investments,available,6.98,166.98,medium,low,8,namecheap,,,08/09/2026 07:31
-5b950171-8373-4cd4-b8e1-ccee139f6706,fellowships.gift,available,14.99,14.99,medium,low,11,namesilo,,,
-4bab2451-9fbd-4b1a-8c2c-2ba62f284f4d,cathedral.partners,available,10.48,88.98,medium,low,9,namecheap,,,11/08/2026 21:50
-c372c8c4-4506-4457-8a23-8dc77369ea2f,fellowships.casino,available,12.79,159.99,medium,low,11,namesilo,,,
-ea69cb05-bff2-4fc8-881c-cb6c0c5d6172,afterlife.forum,available,1.8,49.98,medium,low,9,namecheap,,,15/09/2026 00:23
-e50d6eab-b4a9-4894-bc31-c514fbbcd415,ritual.forex,available,11.98,133.98,medium,low,6,namecheap,,,09/09/2026 18:01
-1f3b68e0-8bf0-4ff9-8ab1-8fb38e54a03e,afterlife.plus,available,4.98,72.98,medium,low,9,namecheap,,,15/09/2026 00:23
-8ca62e47-3772-42b0-8faa-c39f17e5f5ed,cathedral.diy,available,4.98,51.98,medium,low,9,namecheap,,,11/08/2026 21:50
-5078633b-6f15-48ae-8ccf-1df722cc82d2,worship.legal,available,71.99,71.99,medium,low,7,namesilo,,,17/09/2026 09:43
-1b844ba4-c0f4-4a74-be72-fb9ab4b128be,ritual.reviews,available,65.98,77.98,medium,low,6,namecheap,,,09/09/2026 18:01
-74b93cbe-999c-47d4-8f36-49c61a87ed08,inspiration.republican,available,5.99,,high,low,11,name.com,,,
-c22d5ceb-4f94-4a25-ad5d-0d32f351a2d4,organization.moi,available,25.99,25.99,high,low,12,namesilo,,,
-e8705814-8737-42d3-9b5a-f23a29a8dbf1,worship.voto,available,11.98,86.98,medium,low,7,namecheap,,,17/09/2026 09:43
+982c6905-8328-4189-b4c2-5658a5c569b9,dedication.country,available,2499.99,3799.99,low,low,10,name.com,,,18/09/2026 10:32
