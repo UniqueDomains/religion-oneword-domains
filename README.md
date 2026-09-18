@@ -1,10 +1,10 @@
-# One-Word Religion Domain Names Across 506 TLDs (154,604)
+# One-Word Religion Domain Names Across 506 TLDs (164,228)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-154%2C604%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-164%2C228%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word domain names tied to religion, spanning 167,765 domains across 506 TLDs. Median ask sits near $522. Updated daily, the list reflects both classic and niche TLD extensions available for religion-related branding or investment.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **154,604 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **164,228 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 154,604 domains · **Median ask:** $363.45 · **High-demand under $2,500:** 218
+**Public extract:** 1,000 rows · **Live catalog:** 164,228 domains · **Median ask:** $342.67 · **High-demand under $2,500:** 182
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/sector/religion`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
-| faith.accountants | available | $43.99    | —             | high           | low    | 5      | name.com                                           |
-| faith.academy     | resell    | —         | —             | high           | low    | 5      | Porkbun LLC                                        |
-| faith.accountant  | premium   | $625      | —             | high           | low    | 5      | name.com                                           |
-| faith.adult       | available | $166.98   | —             | high           | low    | 5      | namecheap                                          |
-| faith.at          | resell    | —         | —             | high           | low    | 5      | Greenmark IT GmbH ( https://nic.at/registrar/618 ) |
-| faith.actor       | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo                                           |
-| faith.ag          | available | $89       | —             | high           | low    | 5      | name.com                                           |
-| faith.beauty      | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                    |
-| faith.art         | premium   | $1,662.50 | $83.30        | high           | low    | 5      | namesilo                                           |
-| faith.airforce    | available | $103.99   | $103.99       | high           | low    | 5      | namesilo                                           |
-| faith.best        | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                    |
-| faith.associates  | premium   | $242      | $242          | high           | low    | 5      | namesilo                                           |
-| faith.apartments  | available | $19.99    | —             | high           | low    | 5      | name.com                                           |
-| faith.boutique    | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                    |
-| faith.attorney    | premium   | $242      | $242          | high           | low    | 5      | namesilo                                           |
-| faith.archi       | available | $24.99    | —             | high           | low    | 5      | name.com                                           |
-| faith.cfd         | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc.                 |
-| faith.bar         | premium   | $393.75   | —             | high           | low    | 5      | name.com                                           |
-| faith.auction     | available | $4.99     | —             | high           | low    | 5      | name.com                                           |
-| faith.college     | resell    | —         | —             | high           | low    | 5      | Go Daddy, LLC                                      |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| nun.ryukyu    | available | $22.98    | —             | medium         | low    | 3      | namecheap                                    |
+| gods.live     | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
+| sin.cam       | premium   | $854      | $16.52        | medium         | medium | 3      | namesilo                                     |
+| sin.barcelona | available | $38.98    | $38.98        | medium         | medium | 3      | namecheap                                    |
+| holy.cafe     | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                  |
+| sin.cricket   | premium   | $448      | $53.92        | medium         | medium | 3      | namesilo                                     |
+| sin.college   | available | $1.50     | $81.98        | medium         | medium | 3      | namecheap                                    |
+| holy.cash     | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                 |
+| sin.dev       | premium   | $421.12   | $421.12       | medium         | medium | 3      | namesilo                                     |
+| sin.guitars   | available | $104.99   | $114.99       | medium         | medium | 3      | namesilo                                     |
+| holy.center   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                  |
+| sin.inc       | premium   | $2,015    | $2,600        | medium         | medium | 3      | namecheap                                    |
+| sin.srl       | available | $31.99    | $31.99        | medium         | medium | 3      | namesilo                                     |
+| holy.fund     | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| sin.mobi      | premium   | $512      | $512          | medium         | medium | 3      | namesilo                                     |
+| gods.ag       | available | $89       | —             | high           | low    | 4      | name.com                                     |
+| holy.gold     | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                 |
+| sin.tech      | premium   | $325      | $1,300        | medium         | medium | 3      | namecheap                                    |
+| gods.auction  | available | $4.99     | —             | high           | low    | 4      | name.com                                     |
+| holy.town     | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 154,604 live domains                       |
+| 1,000-row public sample | 164,228 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 218 high-demand names under $2,500         |
+| Basic exported fields   | 182 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Religion Domain Names Across 506 TLDs*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Religion Domain Names Across 506 TLDs*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
