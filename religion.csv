@@ -1,11 +1,9 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-fad49155-c22a-46ab-8855-bcb647ac22a4,church.shop,premium,625,,high,low,6,name.com,,,
 80eafe2d-28c7-4990-a6a8-1bc9591bb715,religion.faith,premium,12500,,high,low,8,name.com,,,
 f4e6c065-aea3-468e-8b0c-2eb0669783ff,church.faith,available,,,high,low,6,,,,
 4f159f0b-f8c3-48cf-9d7d-ae9ce8aaeba4,religion.shop,resell,,,high,low,8,"Wild West Domains, LLC",26/09/2016 15:00,26/09/2026 23:59,
 d9664d34-1fa3-46ef-81ac-0d50408674b9,worship.faith,premium,6900,116,medium,low,7,namesilo,,,17/09/2026 09:43
 586b2e66-05fe-4020-b30a-58cae7b2b0e1,religion.org,resell,,,high,low,8,"GoDaddy.com, LLC",23/05/1997 04:00,24/05/2028 04:00,
-f98a2b8f-2a50-4a38-8ae1-b2960a8f9bb4,congregation.desi,available,22.98,,high,low,12,namecheap,,,
 452f17a9-26ff-4c45-b67c-78f8120a9011,religion.voyage,available,9.99,,high,low,8,name.com,,,
 f9cd1e4a-7f7c-486d-83f4-b1f2f5b93956,religion.travel,available,39.99,,high,low,8,name.com,,,
 078a12ac-ac0c-425f-9682-65f77f73cae7,religion.yoga,available,45.98,,high,low,8,namecheap,,,
@@ -415,76 +413,67 @@ afc2ea7f-3387-447a-9c7f-3ee990e46e14,religion.tools,available,17.99,,high,low,8,
 06e61059-fe4d-47f9-9c79-3d6488f35f29,religion.clothing,available,19.99,,high,low,8,name.com,,,
 afcb0740-fef6-4180-8ca0-4fb40bca15ac,religion.tv,resell,,,high,low,8,"GoDaddy.com, LLC",20/01/2012 09:01,20/01/2027 09:01,
 3e555929-d0b2-4ff9-b4e0-76f3693a7f72,religion.recipes,available,11.99,,high,low,8,name.com,,,
-8afc81d0-574d-452a-a898-fb0e55c87ca1,god.cheap,resell,,,high,medium,3,Dynadot Inc,25/06/2025 17:00,25/06/2026 17:00,
-5e12eff5-6447-4498-a900-ef3759069dac,congregation.kiwi,available,35.68,,high,low,12,namecheap,,,
-4ed46185-13ff-4f6d-86d8-7529ef3afb58,worship.flights,available,59.99,75.99,medium,low,7,name.com,,,17/09/2026 09:43
-d636aea3-970c-426c-bc78-648db0663fb1,worship.chat,available,5.98,58.98,medium,low,7,namecheap,,,17/09/2026 09:43
-8548ebae-f6a5-4429-969c-775961507592,worship.sh,available,39.99,47.99,medium,low,7,namesilo,,,17/09/2026 09:43
+3d3fab41-4582-43d2-b52b-d5411cb59810,belief.vacations,available,40.98,49.98,medium,low,6,namecheap,,,23/09/2026 05:12
 02c8cd6a-8f0a-48f2-b540-19982f216699,prayer.ryukyu,available,22.98,,high,low,6,namecheap,,,
-2fe6c5e7-0b20-4b23-8746-7b16132c420e,worship.new,available,549.99,549.99,medium,low,7,name.com,,,17/09/2026 09:43
+31a4b11f-c12c-4e7b-b51a-e82459477428,belief.life,resell,,,medium,low,6,,,,23/09/2026 05:12
 93879a0e-e72f-4f80-9cc9-01c19a09a7a3,congregation.trading,available,19.99,,high,low,12,name.com,,,
-08a8b897-4d93-4ef6-b804-59cfc5e2b207,worship.fun,premium,312.5,1250,medium,low,7,name.com,,,17/09/2026 09:43
-15e4a71d-d5a6-4797-bb6e-0ddf5681d1b4,worship.holdings,available,80.99,84.99,medium,low,7,name.com,,,17/09/2026 09:43
+8965fcca-734a-415d-845d-5bfe676d4c60,belief.mba,available,17.99,39.99,medium,low,6,namesilo,,,23/09/2026 05:12
+10399c2a-2f85-4d47-b6e3-1e15b6d59590,belief.ag,available,89.99,79.99,medium,low,6,namesilo,,,23/09/2026 05:12
 7dee3914-94d7-4c83-a9c3-e651c094979c,church.ryukyu,available,22.98,,high,low,6,namecheap,,,
-8fecf158-a8e9-43e6-b80e-9cb55ba3bb27,worship.bet,available,8.98,35.98,medium,low,7,namecheap,,,17/09/2026 09:43
-22d5595f-b6fa-42cf-a198-a00d1be7f5f7,worship.care,available,20.99,44.49,medium,low,7,namesilo,,,17/09/2026 09:43
-608ad497-2203-4152-a960-7da96c1561b3,worship.dog,available,7.49,64.99,medium,low,7,namesilo,,,17/09/2026 09:43
-ab2c0b16-1677-4aed-94e6-74af7ee186c3,worship.cheap,available,8.99,36.49,medium,low,7,namesilo,,,17/09/2026 09:43
-b079c3db-5b1f-4ce8-85b1-17859878e9ea,worship.dating,available,23.99,84.99,medium,low,7,name.com,,,17/09/2026 09:43
-98365b14-35ad-4891-94f5-4c50bf9f7a17,worship.horse,available,33.98,43.98,medium,low,7,namecheap,,,17/09/2026 09:43
+34ebeef4-afd4-439f-913e-a9e7a466b538,belief.accountants,available,117.99,117.99,medium,low,6,namesilo,,,23/09/2026 05:12
+b8076044-dfbc-4096-afdd-68b311c32f28,belief.meme,premium,195,195,medium,low,6,namecheap,,,23/09/2026 05:12
+6494f427-3ce5-4955-afb4-0f32f1a16dad,belief.vodka,available,32.49,32.49,medium,low,6,namesilo,,,23/09/2026 05:12
+56e5278c-3640-4dc8-bd5a-9920a761b3da,belief.hiphop,available,23.99,23.99,medium,low,6,namesilo,,,23/09/2026 05:12
 ed652de8-3871-47f8-b1b3-3d9d85895307,religion.kiwi,available,35.68,,high,low,8,namecheap,,,
+23498e00-55ea-4f39-95d8-c5d1ab44dc80,belief.vote,available,34.99,90.99,medium,low,6,namesilo,,,23/09/2026 05:12
+913b8657-d30e-4e3e-b5ec-5ae0753857b3,belief.monster,available,1.99,17.29,medium,low,6,namesilo,,,23/09/2026 05:12
 717e6a7b-82ab-48e3-964d-042fa39eb45a,religion.desi,available,22.98,,high,low,8,namecheap,,,
-6c33c853-3ca9-47dc-84a6-0fc053e9eb01,worship.actor,available,16.99,44.49,medium,low,7,namesilo,,,17/09/2026 09:43
-58f741cb-cada-4a26-b32b-6004ecf160c5,worship.ong,available,18.98,24.98,medium,low,7,namecheap,,,17/09/2026 09:43
 5e9355ea-a471-4253-8085-92cb9c2aa870,religion.barcelona,available,38.98,,high,low,8,namecheap,,,
 4c645e84-31c2-4e4e-9257-f21db016af71,religion.chat,available,9.99,,high,low,8,name.com,,,
-c62fc49d-f3b4-41bd-90e6-9ca52df7dfa1,worship.mortgage,available,14.99,81.99,medium,low,7,name.com,,,17/09/2026 09:43
-fc7c4d4a-847a-485f-a80c-6a293629ef64,worship.ing,premium,1625,1625,medium,low,7,name.com,,,17/09/2026 09:43
 e7e0cca0-7fbe-4b37-bcdb-ec39fc4684a5,religion.ryukyu,available,22.98,,high,low,8,namecheap,,,
 d18045fe-1d6f-4ebf-bb57-befdcf328cff,religion.paris,available,51.98,,high,low,8,namecheap,,,
 b7b06080-c878-4c93-a264-82f1ea86f9c4,religion.hamburg,available,59.99,,high,low,8,name.com,,,
 3093fb43-8744-4a04-bfb4-a2e7cf3ccd94,religion.systems,available,21.99,,high,low,8,name.com,,,
-0e9f5c43-0e4f-46c6-8f45-49e844abefed,worship.vegas,available,19.98,64.98,medium,low,7,namecheap,,,17/09/2026 09:43
+afe6705e-e3ca-4073-b84c-9c3e681fb747,belief.pictures,available,15.49,15.49,medium,low,6,namesilo,,,23/09/2026 05:12
 c7e7cdcb-a8cb-439d-a7f3-57ad49e51257,religion.moi,available,25.99,25.99,high,low,8,namesilo,,,
 d4408666-5527-4b0c-9325-edf84e794349,religion.eco,available,64.99,,high,low,8,name.com,,,
-40498ba2-3682-4482-8ea5-2717a6bb7f43,worship.paris,available,66.98,66.98,medium,low,7,namecheap,,,17/09/2026 09:43
-02f978f6-fbae-4f2c-a995-1dcf222b179a,worship.democrat,available,7.25,32.99,medium,low,7,namesilo,,,17/09/2026 09:43
-bfb55e81-4d22-43f2-b756-b201e285dbe2,worship.football,available,26.98,36.98,medium,low,7,namecheap,,,17/09/2026 09:43
+efe50e7b-5ef4-435d-abe6-4383428431d9,belief.tips,available,15.99,30.99,medium,low,6,namesilo,,,23/09/2026 05:12
+83b77ca6-e45e-415e-8cc3-d5bbd8312780,belief.coffee,available,16.99,42.99,medium,low,6,namesilo,,,23/09/2026 05:12
+3230eeb3-6098-4362-8056-993ba304b73d,belief.cx,available,18.99,18.99,medium,low,6,namesilo,,,23/09/2026 05:12
 4b10c069-4cf5-453a-bbb7-07929d89c48f,religion.mobile,premium,375,,high,low,8,name.com,,,
 e852c986-86fa-42e7-b13e-8b3a48e95b26,religion.observer,premium,13,13,high,low,8,namecheap,,,
 6f4a3636-e1ca-4799-b482-f19c9749472b,religion.new,available,549.99,,high,low,8,name.com,,,
-2ea5890d-f94c-4690-aec7-ecad6d2dc1e2,worship.navy,available,42.99,52.99,medium,low,7,name.com,,,17/09/2026 09:43
 1e8a8239-2120-4a87-bfd1-67ece9dbe186,religion.forex,available,19.99,,high,low,8,name.com,,,
 c5e14ad8-3bbb-47f5-96fb-52c15300ecc1,religion.markets,available,9.99,,high,low,8,name.com,,,
 e35a3704-eec4-4632-9763-149a43c27d10,religion.broker,available,19.99,,high,low,8,name.com,,,
 f2f5d163-9719-43ce-986c-6868aa4cca36,religion.trading,available,19.99,,high,low,8,name.com,,,
 fe1019cc-9498-4e29-851e-82e98e1413a8,religion.channel,premium,73.75,,high,low,8,name.com,,,
-5f5cdac6-56ca-4137-85b0-b44a3fe2894a,worship.hair,available,1.99,17.29,medium,low,7,namesilo,,,17/09/2026 09:43
-d33cce55-37a8-460e-bcee-60496b8181f6,worship.insure,available,72.99,72.99,medium,low,7,namesilo,,,17/09/2026 09:43
-119482ec-64bd-44e6-b5c8-41d63e4ff013,worship.gold,available,9.99,99.99,medium,low,7,namesilo,,,17/09/2026 09:43
-1bb7f8c9-a713-4638-8f99-e87ce4bad41c,worship.theatre,available,509.99,529.99,medium,low,7,namesilo,,,17/09/2026 09:43
-75e21507-a234-4847-94c8-0fe48a008dc1,worship.srl,available,31.99,31.99,medium,low,7,namesilo,,,17/09/2026 09:43
+6205dcaf-b1d2-4ce6-aede-446e1aff489f,belief.salon,available,57.99,57.99,medium,low,6,namesilo,,,23/09/2026 05:12
+fd5d35e3-7008-43c4-930f-b67b8d3f303e,belief.cooking,available,32.49,32.49,medium,low,6,namesilo,,,23/09/2026 05:12
+ec125aea-4613-4575-a2b7-7531da9d7fda,belief.lifestyle,available,5.49,39.99,medium,low,6,namesilo,,,23/09/2026 05:12
+8ca914ca-acdf-4605-b06a-91dcaa99d781,belief.camera,available,58.99,58.99,medium,low,6,namesilo,,,23/09/2026 05:12
+57e698fe-0974-4d40-a339-cd51466f843d,belief.gift,available,20.98,23.98,medium,low,6,namecheap,,,23/09/2026 05:12
+80e7f47a-8992-44b7-854b-13740da07da7,belief.vet,available,41.99,41.99,medium,low,6,namesilo,,,23/09/2026 05:12
+ff12b1d9-07c7-4332-84c5-74562b7a0588,belief.wtf,available,7.49,36.49,medium,low,6,namesilo,,,23/09/2026 05:12
+e858734e-3031-49a3-a90e-26aca4937e8d,belief.holiday,available,67.98,81.98,medium,low,6,namecheap,,,23/09/2026 05:12
 07c4e0ae-0a6f-46f0-b0aa-140e75abdab5,worship.memorial,available,52.99,52.99,medium,low,7,namesilo,,,17/09/2026 09:43
-c97f12d9-1df5-4120-a66b-93804232cff0,worship.consulting,available,39.99,67.99,medium,low,7,name.com,,,17/09/2026 09:43
-877c1c7b-e63b-4851-8bbe-e499fcadfaca,worship.airforce,available,103.99,103.99,medium,low,7,namesilo,,,17/09/2026 09:43
-53c52d57-1f8b-453d-a524-b5e6fd57514c,worship.wine,available,9.99,59.99,medium,low,7,namesilo,,,17/09/2026 09:43
+8ca9162f-6097-4c22-8094-620d3dee31ab,belief.theatre,available,509.99,529.99,medium,low,6,namesilo,,,23/09/2026 05:12
 be82c5a8-fd3e-41a9-b826-3cccb3bae946,faith.voyage,available,9.99,,high,low,5,name.com,,,
-4e0266ec-ca59-4eaa-ab79-fbd169db83bc,worship.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,17/09/2026 09:43
+7d5d3ec1-0e56-4769-aa6c-fc3ace362d3d,belief.attorney,available,62.99,62.99,medium,low,6,namesilo,,,23/09/2026 05:12
 48481cd2-10af-4d79-84ba-aa70faf7b690,faith.yoga,premium,242,29.5,high,low,5,namesilo,,,
 d5b5a41a-c4b8-46a3-bae4-927289a03e80,faith.reise,premium,242,242,high,low,5,namesilo,,,
-7a1ad45a-8177-494c-a590-0377283c31d0,worship.prof,premium,111.25,111.25,medium,low,7,name.com,,,17/09/2026 09:43
 81917067-288e-4856-a1f2-965848e9f762,faith.vacations,available,9.99,,high,low,5,name.com,,,
+9004185c-48b7-45b2-b6d9-1974d80aa2bc,belief.boutique,available,5.99,32.99,medium,low,6,namesilo,,,23/09/2026 05:12
+8e25492d-5e3b-4bf3-ae93-e1bf92d324c5,belief.kitchen,available,10.99,64.99,medium,low,6,namesilo,,,23/09/2026 05:12
 0f0ef63c-90e8-4290-a1a9-413883b991b1,faith.tours,available,9.99,,high,low,5,name.com,,,
 f7d8f6a7-45f4-400c-b1d4-7960d2cc3d30,faith.expert,premium,854,854,high,low,5,namesilo,,,
-79c7f91f-01ea-4159-8f8e-de7767e9f6cb,worship.florist,available,14.99,46.99,medium,low,7,name.com,,,17/09/2026 09:43
 8fb2a3f1-7b41-4b0a-baa5-53982f2da4cf,faith.viajes,available,37.99,37.99,high,low,5,namesilo,,,
 12d8ec47-9a91-4e22-a0cb-37823b9ff545,faith.reisen,premium,500,,high,low,5,name.com,,,
 e5f8da7d-1359-4d55-9dc9-d9d7a3c3439b,faith.holiday,premium,242,242,high,low,5,namesilo,,,
 788b7b19-4fd3-4f7b-89d5-3b513e556c50,faith.flights,premium,242,242,high,low,5,namesilo,,,
+9c02ff06-47ea-413a-a755-f7bc38a9a401,belief.rocks,available,11.99,21.99,medium,low,6,namesilo,,,23/09/2026 05:12
 57c4c5b2-044d-4f6e-bc45-009872613364,faith.love,premium,700,,high,low,5,name.com,,,
-590d0ee5-893a-4b87-bbe7-8b07d4babb1b,worship.tickets,available,359.99,488.88,medium,low,7,namesilo,,,17/09/2026 09:43
 b8c4bf05-7768-4c5c-b851-e79ee538ea1b,faith.institute,premium,118.8,118.8,high,low,5,namesilo,,,
-ac977ffa-16e5-4b14-b456-96db66a27cbc,worship.market,available,46.98,55.98,medium,low,7,namecheap,,,17/09/2026 09:43
 d3a6f9da-8fa8-4371-92fc-1882a85ddbf5,faith.schule,available,19.99,,high,low,5,name.com,,,
 9edd6e8d-cdc1-4025-bbe3-ebd4f544732b,faith.shiksha,available,19.99,,high,low,5,name.com,,,
 def17e32-b305-4488-a7f4-320e2571f722,faith.at,resell,,,high,low,5,Greenmark IT GmbH ( https://nic.at/registrar/618 ),,,
@@ -492,7 +481,6 @@ b634251f-9814-4ebb-9af8-fda4944568fa,faith.degree,available,14.99,,high,low,5,na
 8cdfa659-2387-44be-8659-f2419a9f18dd,faith.space,premium,1750,7000,high,low,5,namecheap,,,
 2cdf2e1c-3569-42dc-b2d6-71c5e9a55cde,faith.zone,resell,,,high,low,5,"DNSPod, Inc.",24/02/2020 04:51,24/02/2027 04:51,
 b709701e-e59b-4064-a63f-1f9622c58eea,church.travel,available,39.99,,high,low,6,name.com,,,
-e7f62b8d-e15d-48fa-862d-8102cbe7ce08,worship.kim,available,12.99,23.49,medium,low,7,namesilo,,,17/09/2026 09:43
 7c273bd5-0fb1-4d98-9724-80d08e2a6a43,church.yoga,premium,242,29.5,high,low,6,namesilo,,,
 8d0a2685-e682-4634-bc23-a1e16982f866,church.reise,available,27.89,97.99,high,low,6,namesilo,,,
 6a91bdf1-69ac-4e80-a973-f3d8c69e289b,faith.qpon,premium,640,23.54,high,low,5,namesilo,,,
@@ -528,6 +516,7 @@ db9e4440-fd2e-4b55-834f-df2db203e8f3,church.reisen,available,3.99,20.99,high,low
 bfd35f4c-f732-4918-ae48-9186e446f10b,faith.fans,premium,242,242,high,low,5,namesilo,,,
 af6ec3ee-530a-4a82-ad13-139ad924ab85,church.schule,available,19.99,,high,low,6,name.com,,,
 db84183e-cd33-4f82-9dfe-d2064446e535,faith.ceo,premium,248.75,,high,low,5,name.com,,,
+a8a6e49c-4f43-44dc-84b7-d97a904bcadd,belief.audio,available,108.98,159.98,medium,low,6,namecheap,,,23/09/2026 05:12
 61824d0e-b77f-4ff7-9422-e787fff80d1c,faith.living,premium,490,700,high,low,5,namecheap,,,
 c043dd8e-60cf-48e7-a45a-c67271a1d2a9,faith.hiv,available,184.99,,high,low,5,name.com,,,
 d3aa1aef-8927-45b3-83fa-3bafe8b686c6,church.shiksha,available,19.99,,high,low,6,name.com,,,
@@ -541,12 +530,13 @@ df1050a8-e06c-42cf-b52b-31875c39ac5e,faith.family,premium,242,242,high,low,5,nam
 5a57328b-9660-4890-8399-c1a1620dbd49,faith.academy,resell,,,high,low,5,Porkbun LLC,09/12/2019 14:28,09/12/2026 14:28,
 863b77a6-2599-4cdd-8a89-9e83b0c3da8b,church.degree,available,14.99,,high,low,6,name.com,,,
 12b02a43-251f-43cf-9f35-d09c447646b6,church.space,premium,875,3500,high,low,6,namecheap,,,
+ab035501-e96b-4b2b-a8df-b893730dc2bd,belief.sydney,available,58,58,medium,low,6,namesilo,,,23/09/2026 05:12
 7792cc87-ce71-4c73-b09d-7ca0d4562955,faith.barcelona,available,38.98,,high,low,5,namecheap,,,
 1a4ad4ab-d904-4aaa-8e0e-499f73d69fc2,faith.forum,premium,437.5,,high,low,5,name.com,,,
 dd891009-2dc8-47b3-9a33-956c7d4ca6e7,church.zone,premium,854,854,high,low,6,namesilo,,,
-852cffd7-498f-426a-b775-ae3fcd14f60a,temple.pro,resell,,,medium,high,6,Dynadot Inc,07/02/2018 10:09,07/02/2027 10:09,
 2fbea7d7-18ca-49be-9a6b-b1020abbf509,faith.lifestyle,premium,490,700,high,low,5,namecheap,,,
 aa84065a-233d-4295-b5e0-4fe734d18ac5,faith.miami,premium,96,21.24,high,low,5,namesilo,,,
+9206877c-f514-41ec-8a76-d7e29f123159,belief.kaufen,available,5.99,26.99,medium,low,6,namesilo,,,23/09/2026 05:12
 324b57f8-8c8a-4624-8466-87e6ff97554e,faith.sbs,premium,141.44,282.88,high,low,5,namesilo,,,
 3e03b458-5bd2-4763-a57a-2ccfdbf62c5c,faith.rehab,available,,,high,low,5,,,,
 3e9e190a-6616-4eb7-bfea-ed267f7d3227,faith.support,premium,118.8,118.8,high,low,5,namesilo,,,
@@ -570,6 +560,7 @@ c996df13-f117-4b25-ad99-ec320ab10bff,faith.audio,available,104.99,114.99,high,lo
 9826b263-ea54-4f59-bd39-9962ddf8c648,faith.music,available,,,high,low,5,,,,
 a91a2336-0723-4897-b173-796d17ffdc10,faith.hiphop,available,23.99,23.99,high,low,5,namesilo,,,
 95f4b364-1f71-4163-967f-fcb9e39f5b56,faith.guru,available,3.99,,high,low,5,name.com,,,
+1c9e2fba-0134-41e1-a2f2-a436a82c7c0c,belief.jetzt,available,24.48,30.48,medium,low,6,namecheap,,,23/09/2026 05:12
 62746dc2-3d31-4c93-843d-baedc5c271a5,faith.cyou,premium,141.44,282.88,high,low,5,namesilo,,,
 5cdc517b-a627-447b-972f-91095bfb2b94,faith.wtf,premium,242,242,high,low,5,namesilo,,,
 49b88e5b-ac4a-4b61-aa9b-e6d8eb5cfadb,faith.cruises,premium,242,242,high,low,5,namesilo,,,
@@ -603,7 +594,7 @@ ea221eff-05dd-44bd-bad2-6f1e10a607fd,church.site,premium,1562.5,,high,low,6,name
 a9def47b-ef52-4bc2-a638-de99c766977c,faith.associates,premium,242,242,high,low,5,namesilo,,,
 2232f175-5189-4c0c-9835-ff6fc4671197,faith.country,available,2450,,high,low,5,namecheap,,,
 9f8b517b-58a1-4260-8e21-4eb40efc0ca5,faith.town,premium,242,242,high,low,5,namesilo,,,
-2220f578-a205-424f-b081-e6a26a7c6e40,faith.group,resell,,,high,low,5,"Spaceship, Inc.",25/08/2021 16:05,25/08/2026 16:05,
+2220f578-a205-424f-b081-e6a26a7c6e40,faith.group,resell,,,high,low,5,"Spaceship, Inc.",25/08/2021 16:05,25/08/2027 16:05,22/09/2026 12:15
 715d74ea-4633-4616-94ff-7d51ebc83d0d,faith.healthcare,premium,242,242,high,low,5,namesilo,,,
 c5a86eb4-250f-4f14-978c-875ca576d689,faith.charity,premium,242,242,high,low,5,namesilo,,,
 8a5aff6b-545a-4a1b-a262-ddf3f22d9e49,faith.republican,available,5.99,28.99,high,low,5,namesilo,,,
@@ -675,6 +666,7 @@ e3f62c45-63c1-49b7-8ce6-b1fed1ab77ef,faith.wedding,premium,242,29.5,high,low,5,n
 2fda3a7e-76d7-4004-b777-2226f9a7b22d,church.desi,available,22.98,,high,low,6,namecheap,,,
 f7b49492-e3b2-4cb8-a859-8f0f40fb6be1,faith.tennis,available,65.99,65.99,high,low,5,namesilo,,,
 06cc1c27-2d0b-40bb-b766-7d67539fe60c,faith.uno,available,,,high,low,5,,,,
+fdb4e1f5-3d55-4bd1-8a9e-c6f255bdba2a,belief.bio,resell,,,medium,low,6,,,,23/09/2026 05:12
 dc1d71bf-401d-44cc-97b8-b662a928b03b,faith.casino,available,12.79,159.99,high,low,5,namesilo,,,
 f4918052-dc8f-4b20-ad28-eb8032528274,faith.bingo,available,14.99,,high,low,5,name.com,,,
 fdb91436-3675-4cb2-8bd5-b052d5b156fb,faith.poker,available,14.99,,high,low,5,name.com,,,
@@ -747,7 +739,7 @@ f0ef67a8-7b01-42fd-9a89-c43598b35d00,faith.srl,premium,54.28,30.68,high,low,5,na
 cad7af11-9e73-4364-9b0b-21da470e9022,faith.gmbh,available,45.99,45.99,high,low,5,namesilo,,,
 b6da6292-d7c1-40a2-8c72-7763faa38afd,faith.inc,premium,2061.5,2660,high,low,5,namesilo,,,
 36a848ee-7fe4-4b12-be15-6c8f88af24bd,faith.llc,premium,1875,,high,low,5,name.com,,,
-a10c1e8c-e1da-4efb-a089-5b095ee1e40a,faith.ltd,resell,,,high,low,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),27/08/2019 16:32,27/08/2026 16:32,
+a10c1e8c-e1da-4efb-a089-5b095ee1e40a,faith.ltd,resell,,,high,low,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),27/08/2019 16:32,27/08/2028 16:32,22/09/2026 18:07
 177e22ca-9652-4f47-8f64-6d15f3808336,faith.pizza,available,,,high,low,5,,,,
 41f8eb19-bae7-440c-9b87-33e2607ec02b,church.family,premium,500,,high,low,6,name.com,,,
 29f655c1-f9d0-40f4-9e0d-f7747b64a550,church.mom,premium,812.5,,high,low,6,name.com,,,
@@ -807,6 +799,7 @@ d833d5da-514d-4425-be87-f8e3fe356974,faith.press,premium,625,,high,low,5,name.co
 8e226acc-f9ae-4d8e-a154-2426ff9ded23,faith.blog,premium,640,2660,high,low,5,namesilo,,,
 1509b298-528e-41dd-9519-1aa62e74b863,faith.observer,premium,29.5,29.5,high,low,5,namesilo,,,
 30ed5225-d606-43f7-a9e1-84abec35ecf7,faith.plumbing,available,14.99,,high,low,5,name.com,,,
+e139ed38-7448-43b1-ba5b-9d10af3cc6c6,belief.berlin,available,79.98,89.98,medium,low,6,namecheap,,,23/09/2026 05:12
 30e78161-2054-4ae8-9b7d-63fe4409ec57,faith.buzz,premium,500,,high,low,5,name.com,,,
 e73b681a-7dac-4772-9bf7-c831e16c731d,faith.vc,resell,,,high,low,5,"Name.com, Inc.",10/01/2018 23:10,10/01/2027 23:10,
 f647ceeb-d20f-4be1-b5c9-0e85d40e4d8e,faith.yachts,available,1.99,15.75,high,low,5,namesilo,,,
@@ -910,6 +903,7 @@ bf9dc2c9-fcb5-46aa-b3a2-73c10ff7dbbb,church.country,available,,,high,low,6,,,,
 12870170-fbdc-4bf5-851f-f4b921b3fb99,church.group,resell,,,high,low,6,Dynadot Inc,07/01/2021 13:51,07/01/2027 13:51,
 1b2c3f2d-a4a0-4cc0-beba-9c7d2c9b5e03,church.healthcare,premium,242,242,high,low,6,namesilo,,,
 acc583fc-bfdb-4f92-8a02-a26dbb928a77,church.charity,premium,242,242,high,low,6,namesilo,,,
+b1f6cf5f-81d1-425b-ad56-811eeb1f3f07,belief.sbs,premium,384,768,medium,low,6,namesilo,,,23/09/2026 05:12
 4a6c4adc-6abc-4d27-aa76-6c9b51bfa0a2,church.republican,available,5.99,28.99,high,low,6,namesilo,,,
 279332e5-c80a-4d1a-a84d-6c56e787b9c6,church.democrat,premium,38.94,38.94,high,low,6,namesilo,,,
 3ee17078-0a5c-47f7-9fe4-935583a270a5,church.casa,premium,854,11.8,high,low,6,namesilo,,,
@@ -999,3 +993,9 @@ b81dcca9-87ea-442d-a5fc-64e7b6bd44e1,church.parts,premium,118.8,118.8,high,low,6
 286d8a18-1a28-436d-bace-4b08d109267b,church.cab,available,19.99,,high,low,6,name.com,,,
 5f903c3a-8ad3-46aa-ad15-97545eb71af9,church.florist,available,14.99,,high,low,6,name.com,,,
 203d85a8-7a6f-47ea-a948-f6ea8a9eabdb,church.flowers,available,64.99,114.99,high,low,6,namesilo,,,
+be042d63-5dca-4838-ba13-9bd84890cee5,belief.singles,available,9.49,33.99,medium,low,6,namesilo,,,23/09/2026 05:12
+ab625826-3366-4078-b4b5-9b80739e685f,church.rodeo,available,12.99,12.99,high,low,6,namesilo,,,
+0b0adb40-87a6-4f25-8066-31eeb20348be,church.racing,premium,116,116,high,low,6,namesilo,,,
+5270aec7-27e8-4d4a-a832-f7aee104ccee,church.boo,premium,623.75,,high,low,6,name.com,,,
+5d03821e-ea34-47a9-9a4a-b1ab24e155ed,belief.bid,premium,1107,116,medium,low,6,namesilo,,,23/09/2026 05:12
+6324bf5f-6afe-4c02-94a6-45183563002e,church.diy,premium,437.5,,high,low,6,name.com,,,
