@@ -1,10 +1,10 @@
-# One-Word Religion Domain Names Across 506 TLDs (283,957)
+# One-Word Religion Domain Names Across 506 TLDs (283,982)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-283%2C957%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-283%2C982%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word domain names tied to religion, spanning 167,765 domains across 506 TLDs. Median ask sits near $522. Updated daily, the list reflects both classic and niche TLD extensions available for religion-related branding or investment.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **283,957 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **283,982 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 283,957 domains · **Median ask:** $220.29 · **High-demand under $2,500:** 4,286
+**Public extract:** 1,000 rows · **Live catalog:** 283,982 domains · **Median ask:** $219.76 · **High-demand under $2,500:** 4,292
 
-**Last updated:** 2026-11-01
+**Last updated:** 2026-11-05
 **Canonical page:** `https://unique.domains/domains/sector/religion`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                          |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
-| faith.accountants | available | $90.20     | $90.20        | high           | medium | 5      | cloudflare                                         |
-| faith.singles     | resell    | $12.99     | —             | high           | medium | 5      | name.com                                           |
-| faith.actor       | premium   | $54.36     | $108.60       | high           | medium | 5      | porkbun                                            |
-| faith.adult       | available | $51.95     | $98.53        | high           | medium | 5      | spaceship                                          |
-| faith.xxx         | resell    | $154.98    | —             | high           | medium | 5      | namecheap                                          |
-| faith.associates  | premium   | $242       | $242          | high           | medium | 5      | namesilo                                           |
-| faith.ag          | available | $82.50     | $82.50        | high           | medium | 5      | dynadot                                            |
-| church.sh         | resell    | $39.99     | $47.99        | high           | low    | 6      | NameCheap, Inc.                                    |
-| faith.bar         | premium   | $326.23    | $465.95       | high           | medium | 5      | spaceship                                          |
-| faith.apartments  | available | $45.74     | $45.74        | high           | medium | 5      | spaceship                                          |
-| worship.co        | resell    | $57,371.20 | $48.99        | high           | low    | 7      | Dynadot Inc                                        |
-| faith.bargains    | premium   | $68.51     | $68.51        | high           | medium | 5      | spaceship                                          |
-| faith.archi       | available | $13.14     | $83           | high           | medium | 5      | spaceship                                          |
-| faith.agency      | resell    | —          | —             | high           | medium | 5      | UM DOMAINS PTE. LTD                                |
-| faith.black       | premium   | $85.80     | $85.80        | high           | medium | 5      | namecheap                                          |
-| faith.auction     | available | $28.20     | $28.20        | high           | medium | 5      | cloudflare                                         |
-| faith.asia        | resell    | —          | —             | high           | medium | 5      | NameSilo, LLC                                      |
-| faith.blog        | premium   | $517.70    | $2,070.20     | high           | medium | 5      | spaceship                                          |
-| faith.audio       | available | $93.35     | $103.40       | high           | medium | 5      | spaceship                                          |
-| faith.at          | resell    | —          | —             | high           | medium | 5      | Greenmark IT GmbH ( https://nic.at/registrar/618 ) |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| faith.accountants | available | $90.20    | $90.20        | high           | medium | 5      | cloudflare                                          |
+| faith.at          | resell    | —         | —             | high           | medium | 5      | Greenmark IT GmbH ( https://nic.at/registrar/618 )  |
+| faith.accountant  | premium   | $546.35   | $71.48        | high           | medium | 5      | porkbun                                             |
+| faith.adult       | available | $51.95    | $98.53        | high           | medium | 5      | spaceship                                           |
+| faith.beauty      | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.                                     |
+| faith.actor       | premium   | $54.36    | $108.60       | high           | medium | 5      | porkbun                                             |
+| faith.ag          | available | $82.50    | $82.50        | high           | medium | 5      | dynadot                                             |
+| faith.company     | resell    | —         | —             | high           | medium | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| faith.attorney    | premium   | $207.20   | $207.20       | high           | medium | 5      | spaceship                                           |
+| faith.airforce    | available | $80.20    | $80.20        | high           | medium | 5      | cloudflare                                          |
+| faith.financial   | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.                                     |
+| faith.bar         | premium   | $326.23   | $465.95       | high           | medium | 5      | spaceship                                           |
+| faith.apartments  | available | $45.74    | $45.74        | high           | medium | 5      | spaceship                                           |
+| faith.games       | resell    | —         | —             | high           | medium | 5      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| faith.bargains    | premium   | $68.51    | $68.51        | high           | medium | 5      | spaceship                                           |
+| faith.archi       | available | $13.14    | $83           | high           | medium | 5      | spaceship                                           |
+| faith.group       | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.                                     |
+| faith.boston      | premium   | $440      | $19.48        | high           | medium | 5      | dynadot                                             |
+| faith.audio       | available | $93.35    | $103.40       | high           | medium | 5      | spaceship                                           |
+| faith.homes       | resell    | —         | —             | high           | medium | 5      | —                                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 283,957 live domains                                 |
+| 1,000-row public sample | 283,982 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 4,286 high-demand names under $2,500                 |
+| Basic exported fields   | 4,292 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Religion Domain Names Across 506 TLDs*. Version 2026-11-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Religion Domain Names Across 506 TLDs*. Version 2026-11-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
